@@ -1,0 +1,1 @@
+UHCRandom est un projet reprenant l'UHC en y ajoutant des scénarios aléatoires.

@@ -1,0 +1,1 @@
+AgarMC est un projet visant à reproduire AgarIO dans Minecraft. 

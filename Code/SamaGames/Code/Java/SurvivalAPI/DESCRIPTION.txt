@@ -1,0 +1,1 @@
+SurvivalAPI est un projet permettant de centraliser la logique de jeu des jeux Ultra Hard Core. 

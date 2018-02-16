@@ -1,0 +1,1 @@
+SamaGamesCore est le projet offrant la couche implémentée de production de l'API utilisée sur les serveurs de jeu. 

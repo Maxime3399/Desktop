@@ -1,0 +1,1 @@
+SamaBot est un projet permettant la synchronisation des grades entre le jeu et le TeamSpeak. 

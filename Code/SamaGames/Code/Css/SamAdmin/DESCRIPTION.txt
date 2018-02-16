@@ -1,0 +1,1 @@
+SamAdmin est un projet permettant l'administration du serveur de jeu via un panneau de contrôle web. 

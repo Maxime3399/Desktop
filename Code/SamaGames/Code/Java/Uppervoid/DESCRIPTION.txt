@@ -1,0 +1,1 @@
+Uppervoid est un projet dans lequel les joueurs doivent s'affronter sur des plateformes détruites progressivement. 

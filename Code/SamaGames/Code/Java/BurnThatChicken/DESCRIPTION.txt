@@ -1,0 +1,1 @@
+BurnThatChicken est un projet où les joueurs doivent tirer sur des poulets de plus en plus nombreux. 

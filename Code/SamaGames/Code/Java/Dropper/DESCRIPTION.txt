@@ -1,0 +1,1 @@
+Dropper est un projet visant à implémenter le concept de la célèbre carte de jeu 'The Dropper'. 

@@ -1,0 +1,1 @@
+RendLargen est le projet permettant le traitement des achats sur la boutique en ligne du serveur. 

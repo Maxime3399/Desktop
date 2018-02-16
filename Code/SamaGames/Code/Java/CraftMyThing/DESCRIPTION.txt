@@ -1,0 +1,1 @@
+CraftMyThing est un projet demandant aux joueurs de 'crafter' une idée donnée avec les ressources environnantes. 

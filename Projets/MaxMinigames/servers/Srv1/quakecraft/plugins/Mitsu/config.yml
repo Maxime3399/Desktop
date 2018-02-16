@@ -1,0 +1,15 @@
+#========== DATABASE ==========
+
+Adress: "localhost"
+User: "root"
+Password: ""
+Database: "maxminigames"
+Port: 3306
+UseSSL: false
+
+#========== SYSTEM ==========
+
+Server: "Srv1"
+Type: "quakecraft"
+Directory: 'C:\Users\Maxime\Desktop\MaxMinigames\servers\Srv1'
+File: "run.bat"

@@ -1,0 +1,1 @@
+SamaGamesAPI est le projet offrant la couche abstraite de l'API utilisée sur les serveurs de jeu. 

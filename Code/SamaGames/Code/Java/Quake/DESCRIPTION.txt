@@ -1,0 +1,1 @@
+Quake est un projet dans lequel les joueurs doivent s'affronter par le biais d'armes laser (tiré du jeu du même nom). 

@@ -1,0 +1,1 @@
+Hub est le projet accueillant les joueurs une fois connecté sur l'infrastructure. 

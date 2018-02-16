@@ -1,0 +1,1 @@
+HeroBattle est un projet inspiré de Smash Bros sous forme cubique. 

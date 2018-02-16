@@ -1,0 +1,1 @@
+WitherParty est un projet dans lequel les joueurs doivent reproduire une séquence de musique formée de bruits d'animaux. 

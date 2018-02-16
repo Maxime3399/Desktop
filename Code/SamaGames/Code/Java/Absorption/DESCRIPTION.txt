@@ -1,0 +1,1 @@
+Absorption est un projet visant à reproduire Splatoon dans Minecraft. 

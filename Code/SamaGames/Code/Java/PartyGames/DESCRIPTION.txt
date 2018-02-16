@@ -1,0 +1,1 @@
+PartyGames est un projet proposant une collection de mini-jeux très simples et rapides aux joueurs. 

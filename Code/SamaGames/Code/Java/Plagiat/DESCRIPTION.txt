@@ -1,0 +1,1 @@
+Plagiat est un projet reprenant les concepts de plusieurs serveurs connus afin d'en créer un jeu unique. 

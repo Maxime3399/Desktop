@@ -1,0 +1,1 @@
+FlyRing est un projet demandant aux joueurs d'effectuer un parcours constitué d'anneaux en portant des elytres. 
