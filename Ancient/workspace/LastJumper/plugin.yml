@@ -1,0 +1,7 @@
+main: fr.Maxime3399.LastJumper.MainClass
+name: LastJumper
+version: 1.0.4
+author: Maxime3399
+commands:
+    lj:
+    lastjumper:

@@ -1,0 +1,23 @@
+package fr.Maxime3399.MaxQuake.menus;
+
+import org.bukkit.Bukkit;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.Inventory;
+
+import fr.Maxime3399.MaxQuake.custom.QuakePlayer;
+import fr.Maxime3399.MaxQuake.managers.PlayersManagers;
+
+public class SettingsMenu {
+	
+	public static void openMenu(Player p){
+		
+		Inventory i = Bukkit.createInventory(null, 27, "§8Paramètres");
+		QuakePlayer qp = PlayersManagers.getQuakePlayer(p);
+		
+		
+		
+		p.openInventory(i);
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package fr.Maxime3399.Mitsu;
+
+import org.bukkit.entity.Player;
+
+import fr.Maxime3399.Mitsu.utils.DataUtils;
+
+public class MitsuAPI {
+	
+	public static String getServer(){
+		return MainClass.getInstance().getConfig().getString("Srv1");
+	}
+	
+	public static void teleportPlayer(Player p, String server){
+		
+		if(DataUtils.typeExist(server)){
+			
+			
+			
+		}else{
+			
+			
+			
+		}
+		
+	}
+
+}

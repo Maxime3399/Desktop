@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MySQLUtils.java&apos; to &apos;ShinobiBungee/src/fr.Maxime3399.ShinobiBungee.utils&apos;&#x0D;&#x0A;- Original project: &apos;DivionBungee&apos;&#x0D;&#x0A;- Destination element: &apos;ShinobiBungee/src/fr.Maxime3399.ShinobiBungee.utils&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.DivionBungee.utils.MySQLUtils.java&apos;" description="Copy compilation unit" destination="=ShinobiBungee/src&lt;fr.Maxime3399.ShinobiBungee.utils" element1="/src&lt;fr.Maxime3399.DivionBungee.utils{MySQLUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1510160508106" units="1" version="1.0"/>
+</session>

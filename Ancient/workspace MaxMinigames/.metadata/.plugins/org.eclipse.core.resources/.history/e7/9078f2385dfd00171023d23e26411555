@@ -1,0 +1,13 @@
+package fr.Maxime3399.MaxQuake.menus;
+
+import org.bukkit.entity.Player;
+
+public class SettingsMenu {
+	
+	public static void openMenu(Player p){
+		
+		
+		
+	}
+
+}

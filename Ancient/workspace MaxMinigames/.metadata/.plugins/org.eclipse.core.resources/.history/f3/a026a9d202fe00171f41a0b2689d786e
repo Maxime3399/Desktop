@@ -1,0 +1,29 @@
+package fr.Maxime3399.Mitsu.utils;
+
+import java.sql.SQLException;
+
+import fr.Maxime3399.Mitsu.MainClass;
+
+public class DataUtils {
+	
+	private static String database = MainClass.getInstance().getConfig().getString("Database");
+	
+	public static void registerPlugin(){
+		
+		try{
+			MySQLUtils.state.executeUpdate("CREATE TABLE IF NOT EXISTS `"+database+"`.`mitsu_types` ( `type` VARCHAR(255) NOT NULL , PRIMARY KEY (`type`)) ENGINE = MyISAM;");
+		}catch(SQLException e){
+			e.printStackTrace();
+		}
+		
+		try{
+			MySQLUtils.state.executeUpdate("CREATE TABLE IF NOT EXISTS `"+database+"`.`mitsu_servers` ( `id` VARCHAR(255) NOT NULL , `status` VARCHAR(255) NOT NULL , `players` INT(255) NOT NULL , `maxPlayers` INT(255) NOT NULL , `type` VARCHAR(255) NOT NULL , `next` VARCHAR(255) NOT NULL , PRIMARY KEY (`id`)) ENGINE = MyISAM;");
+		}catch(SQLException e){
+			e.printStackTrace();
+		}
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GameState.java&apos; to &apos;MCube/src/fr.Maxime3399.MCube.custom&apos;&#x0D;&#x0A;- Original project: &apos;MCubeA&apos;&#x0D;&#x0A;- Destination element: &apos;MCube/src/fr.Maxime3399.MCube.custom&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.MCube.GameState.java&apos;" description="Copy compilation unit" destination="=MCube/src&lt;fr.Maxime3399.MCube.custom" element1="/&lt;fr.Maxime3399.MCube{GameState.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1502367501352" units="1" version="1.0"/>
+</session>

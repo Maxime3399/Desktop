@@ -1,0 +1,7 @@
+main: fr.Maxime3399.MCube.MainClass
+author: Maxime3399
+name: M-Cube
+version: 1.0.0-A1.0
+commands:
+    menu:
+    test:

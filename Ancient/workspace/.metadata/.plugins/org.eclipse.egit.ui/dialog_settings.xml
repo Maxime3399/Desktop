@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Maxime3399/UltraCosmetics"/>
+		<item value="https://github.com/Maxime3399/UltraCosmetics/tree/master/v1_12_R1"/>
+		<item value="https://github.com/Maxime3399/Test"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>

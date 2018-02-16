@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Zone.java&apos; to &apos;ShinobiLobby/src/fr.Maxime3399.ShinobiLobby.custom&apos;&#x0D;&#x0A;- Original project: &apos;MaxicraftLobby&apos;&#x0D;&#x0A;- Destination element: &apos;ShinobiLobby/src/fr.Maxime3399.ShinobiLobby.custom&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.MaxicraftLobby.utils.Zone.java&apos;" description="Copy compilation unit" destination="=ShinobiLobby/src&lt;fr.Maxime3399.ShinobiLobby.custom" element1="/src&lt;fr.Maxime3399.MaxicraftLobby.utils{Zone.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1510421643333" units="1" version="1.0"/>
+</session>

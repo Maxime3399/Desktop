@@ -1,0 +1,8 @@
+main: fr.Maxime3399.DivionAPI.MainClass
+name: DivionAPI
+version: 1.0.0-A1
+author: Maxime3399
+commands:
+    maintenance:
+    lobby:
+    hub:

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hologram.java&apos; to &apos;MaxQuake/src/fr.Maxime3399.MaxQuake.custom&apos;&#x0D;&#x0A;- Original project: &apos;HolographicEffects&apos;&#x0D;&#x0A;- Destination element: &apos;MaxQuake/src/fr.Maxime3399.MaxQuake.custom&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.HolographicEffects.custom.Hologram.java&apos;" description="Copy compilation unit" destination="=MaxQuake/src&lt;fr.Maxime3399.MaxQuake.custom" element1="/src&lt;fr.Maxime3399.HolographicEffects.custom{Hologram.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1515084191769" units="1" version="1.0"/>
+</session>

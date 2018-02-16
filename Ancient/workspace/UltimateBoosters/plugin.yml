@@ -1,0 +1,9 @@
+main: fr.Maxime3399.UltimateBoosters.MainClass
+name: UltimateBoosters
+version: 1.0.0-A2
+author: Maxime3399
+depends: [Vault]
+commands:
+    booster:
+    boosters:
+    tip:

@@ -1,0 +1,7 @@
+main: fr.Maxime3399.MaxQuake.MainClass
+name: MaxQuake
+version: 1.0.0-a1.0
+author: Maxime3399
+database: true
+commands:
+    test:

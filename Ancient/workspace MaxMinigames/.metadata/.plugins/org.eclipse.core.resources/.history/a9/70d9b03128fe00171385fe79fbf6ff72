@@ -1,0 +1,17 @@
+package fr.Maxime3399.Mitsu;
+
+import org.bukkit.entity.Player;
+
+public class MitsuAPI {
+	
+	public static String getServer(){
+		return MainClass.getInstance().getConfig().getString("Srv1");
+	}
+	
+	public static void teleportPlayer(Player p, String server){
+		
+		
+		
+	}
+
+}

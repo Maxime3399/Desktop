@@ -1,0 +1,29 @@
+package fr.Maxime3399.Mitsu.utils;
+
+import java.io.File;
+import java.io.FilenameFilter;
+import java.util.ArrayList;
+
+public class FoldersUtils {
+	
+	public static ArrayList<File> getDirectories(String path){
+		
+		ArrayList<File> result = new ArrayList<>();
+		File file = new File(path);
+		String[] list = file.list(new FilenameFilter() {
+		  public boolean accept(File current, String name) {
+		    return new File(current, name).isDirectory();
+		  }
+		});
+		
+		for(String s : list){
+			
+			
+			
+		}
+		
+		return result;
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LevelUtils.java&apos; to &apos;ShinobiUtil/src/fr.Maxime3399.ShinobiUtil.utils&apos;&#x0D;&#x0A;- Original project: &apos;ShinobiLobby&apos;&#x0D;&#x0A;- Destination element: &apos;ShinobiUtil/src/fr.Maxime3399.ShinobiUtil.utils&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.ShinobiLobby.utils.LevelUtils.java&apos;" description="Copy compilation unit" destination="=ShinobiUtil/src&lt;fr.Maxime3399.ShinobiUtil.utils" element1="/src&lt;fr.Maxime3399.ShinobiLobby.utils{LevelUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1510852344031" units="1" version="1.0"/>
+</session>

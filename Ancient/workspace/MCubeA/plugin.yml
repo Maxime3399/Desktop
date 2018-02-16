@@ -1,0 +1,14 @@
+main: fr.Maxime3399.MCube.MainClass
+name: M-Cube
+version: 1.0.0-A5
+author: Maxime3399
+commands:
+    menu:
+    shop:
+    home:
+    sethome:
+    delhome:
+    v:
+    vanish:
+    equals:
+    equalsyes:

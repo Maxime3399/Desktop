@@ -1,0 +1,11 @@
+package fr.Maxime3399.Mitsu.utils;
+
+public class DataUtils {
+	
+	public static void registerPlugin(){
+		
+		
+		
+	}
+
+}

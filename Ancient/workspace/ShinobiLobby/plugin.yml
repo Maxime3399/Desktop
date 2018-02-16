@@ -1,0 +1,7 @@
+main: fr.Maxime3399.ShinobiLobby.MainClass
+name: ShinobiLobby
+author: Maxime3399
+version: 1.0.0
+depends: [Citizens]
+commands:
+    test:

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MySQLUtils.java&apos; to &apos;DivionBungee/src/fr.Maxime3399.DivionBungee.utils&apos;&#x0D;&#x0A;- Original project: &apos;DivionAPI&apos;&#x0D;&#x0A;- Destination element: &apos;DivionBungee/src/fr.Maxime3399.DivionBungee.utils&apos;&#x0D;&#x0A;- Original element: &apos;fr.Maxime3399.DivionAPI.MySQLUtils.java&apos;" description="Copy compilation unit" destination="=DivionBungee/src&lt;fr.Maxime3399.DivionBungee.utils" element1="/src&lt;fr.Maxime3399.DivionAPI{MySQLUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1501426907409" units="1" version="1.0"/>
+</session>

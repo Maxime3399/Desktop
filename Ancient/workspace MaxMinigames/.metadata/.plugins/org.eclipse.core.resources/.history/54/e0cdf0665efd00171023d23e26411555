@@ -1,0 +1,41 @@
+package fr.Maxime3399.MaxQuake.menus;
+
+import java.util.ArrayList;
+
+import org.bukkit.Bukkit;
+import org.bukkit.Material;
+import org.bukkit.enchantments.Enchantment;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.Inventory;
+import org.bukkit.inventory.ItemFlag;
+import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.meta.ItemMeta;
+
+import fr.Maxime3399.MaxQuake.custom.QuakePlayer;
+import fr.Maxime3399.MaxQuake.managers.PlayersManagers;
+
+public class SettingsMenu {
+	
+	public static void openMenu(Player p){
+		
+		Inventory i = Bukkit.createInventory(null, 27, "§8Paramètres");
+		QuakePlayer qp = PlayersManagers.getQuakePlayer(p);
+		
+		ItemStack ISlaser = new ItemStack(Material.FIREWORK);
+		ItemMeta IMlaser = ISlaser.getItemMeta();
+		ArrayList<String> ALlaser = new ArrayList<>();
+		if(qp.getSettings().contains("laser")){
+			IMlaser.setDisplayName("§cLaser");
+			ALlaser.add("§9§l>§r §7Clique pour activer");
+		}else{
+			IMlaser.setDisplayName("§cLaser");
+			ALlaser.add("§9§l>§r §7Clique pour désactiver");
+			IMlaser.addEnchant(Enchantment.PROTECTION_ENVIRONMENTAL, 1, true);
+			IMlaser.addItemFlags(ItemFlag.HIDE_ENCHANTS);
+		}
+		
+		p.openInventory(i);
+		
+	}
+
+}

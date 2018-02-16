@@ -1,0 +1,87 @@
+#Enable : Effect enabled/disabled ( true or false )
+#Display : Effect display
+#Animation : Animation enabled/disabled ( true or false )
+#Time : Effect duration ( 10 = 1 second )
+
+#%health% : Remaining life
+#%maxhealth% : Maximum life
+Health:
+    Enable: true
+    Display: "&c%health%&4&l/&r&c%maxhealth%"
+    TextAnimation: false
+    MooveAnimation: false
+    Time: 8
+
+#%damages% : Damages
+Damages:
+    Enable: true
+    Display: "&4&l%damages%"
+    TextAnimation: false
+    MooveAnimation: true
+    Time: 0
+
+Creeper:
+    Enable: true
+    Display: "&2&lBOOOOOOOMM"
+    TextAnimation: true
+    MooveAnimation: false
+    Time: 25
+
+Tnt:
+    Enable: true
+    Display: "&6&lBOOOOOOOMM"
+    TextAnimation: true
+    MooveAnimation: false
+    Time: 25
+
+#%player% : Player name
+Death:
+    Enable: true
+    Display: "&c&lRIP&r&c %player%"
+    TextAnimation: true
+    MooveAnimation: true
+    Time: 36
+
+Teleport:
+    Enable: true
+    Display: "&d&lTELEPORTED !"
+    TextAnimation: true
+    MooveAnimation: true
+    Time: 22
+
+#%exp% : Exp count
+Exp:
+    Enable: true
+    Display: "&3&l%exp%"
+    TextAnimation: false
+    MooveAnimation: true
+    Time: 0
+
+LevelUp:
+    Enable: true
+    Display: "&a&lLEVEL UP !"
+    TextAnimation: true
+    MooveAnimation: true
+    Time: 18
+
+Join:
+    Enable: true
+    Display: "&a&lJoined !"
+    TextAnimation: true
+    MooveAnimation: true
+    Time: 28
+
+Quit:
+    Enable: true
+    Display: "&c&lDisconnected !"
+    TextAnimation: true
+    MooveAnimation: true
+    Time: 22
+
+#%food% : Food level
+Eat:
+    Enable: true
+    Display: "&6&l%food%"
+    TextAnimation: false
+    MooveAnimation: true
+    Time: 0

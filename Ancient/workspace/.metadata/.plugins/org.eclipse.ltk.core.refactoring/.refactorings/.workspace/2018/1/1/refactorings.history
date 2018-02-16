@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MaxDisplayAPI&apos;" deleteContents="true" description="Delete resource &apos;MaxDisplayAPI&apos;" element1="/MaxDisplayAPI" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1515165123339"/>&#x0A;<refactoring comment="Delete resource &apos;MaxPermissions&apos;" deleteContents="true" description="Delete resource &apos;MaxPermissions&apos;" element1="/MaxPermissions" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1515342672680"/>
+</session>

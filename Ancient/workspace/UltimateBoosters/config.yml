@@ -1,0 +1,41 @@
+#====== Ultimate Boosters ======
+#Plugin version : 1.0.0-A2
+#Spigot version : 1.8.9
+#Plugin by : Maxime3399
+#===============================
+
+#-------------- DATABASE --------------
+
+Adress: ""
+DatabaseName: ""
+User: ""
+Password: ""
+
+#-------------- BUNGEECORD --------------
+
+Bungeecord: false
+MainServer: true
+
+#-------------- FEATURES --------------
+
+TipRewards:
+    BoosterOwner:
+        Money: 5
+    BoosterUser:
+        Money: 10
+
+Effects:
+    Fireworks: true
+    OwnerParticles: true
+    EndParticles: true
+    ActivationSound: true
+    EndSound: true
+    ErrorSound: true
+    TipSound: true
+    TipJoinMessageSound: true
+    MenuSounds: true
+
+SendMessages:
+    TipsRecap: true
+    CurrentBooster: true
+    BoosterRecall: true

@@ -1,0 +1,64 @@
+#====== Last Jumper ======
+#Plugin version : 1.0.4
+#Spigot version : 1.12
+#Plugin by : Maxime3399
+#=========================
+
+#-------------- GAME CONFIGURATION --------------
+
+#The minimum number of players to start a game
+MinPlayers: 2
+#The maximum number of players in a game
+MaxPlayers: 15
+#0 TO DISABLE --> The number of times the player can die before losing the game
+Lifes: 2
+#0 TO DISABLE --> The time allowed to jump before ejection in seconds
+EjectionTime: 20
+#The time allowed before the start of the game when the minimum number of players is reached
+StartTime: 60
+
+#-------------- FUNCTIONS --------------
+
+#Number of the color of wool, number 17 corresponds to a random color
+WoolColor: 17
+
+#-------------- MESSAGES CONFIGURATION --------------
+
+# %player% --> Player name
+# %displayer% --> Display name of the player
+# %joiner% --> Name of who join the game
+# %leaver% --> Name of who quit the game
+# %dead% --> Name of the dead player
+# %winner% --> Name of the winner
+# %count% --> The number of players in the game
+# %max% --> The maximum number of players in the game
+# %min% --> The minimum number of players to start a game
+# %time% --> Time before starting in seconds
+# %arena% --> Arena name
+
+NoPermission: "&cYou don't have the permission !"
+CmdHelp: "&eUse &r&e&l/lj help&r&e."
+CmdUnknown: "&cUnknown command, please use &r&c&l/lj help&r&c."
+CmdNull: "&cYou have no commands !"
+CmdHelp1: "&e&l/lj create [NAME] &r&d: Create a new arena"
+CmdHelp2: "&e&l/lj setjump [ARENA] &r&d: Define the jump platform of an arena"
+CmdHelp3: "&e&l/lj setwait [ARENA] &r&d: Set the arena waiting area"
+CmdHelp4: "&e&l/lj delete [ARENA] &r&d: Delete a arena"
+CmdHelp5: "&e&l/lj menu &r&d: Open the menu"
+CreateExist: "&cThis arena already exist !"
+CreateSuccess: "&aArena successfully created !"
+NotExist: "&cThis arena does not exist !"
+SetJumpSuccess: "&aThe jump platform has been defined !"
+SetWaitSuccess: "&aThe waiting room has been defined !"
+DeleteArena: "&eArena deleted !"
+DeleteGame: "&cThis arena is in use !"
+PlayerJoin: "&b&l%joiner% &r&ejoined the game &r&6[%count%/%max%]"
+PlayerQuit: "&b&l%leaver% &r&eleft the game &r&6[%count%/%max%]"
+GameStart: "&aGame starting in &l%time% &r&aseconds !"
+StartingCancelled: "&cThere are not enough players to start the game"
+Starting: "&aBeginning of the game !"
+QuitInGame: "&c%leaver% &r&edied leaving the game !"
+PlayerDeath: "&c%dead% is dead !"
+Winner: "&a&l%winner% &r&3won the game !"
+Leave: "&eYou are dead, you can use the bed to leave the game"
+LostLife: "&cYou lost a life !"

@@ -1,0 +1,41 @@
+package fr.Maxime3399.Mitsu;
+
+import org.bukkit.Sound;
+import org.bukkit.entity.Player;
+
+import fr.Maxime3399.Mitsu.utils.DataUtils;
+
+public class MitsuAPI {
+	
+	public static String getServer(){
+		return MainClass.getInstance().getConfig().getString("Srv1");
+	}
+	
+	public static void teleportPlayer(Player p, String server){
+		
+		if(DataUtils.typeExist(server)){
+			
+			for(String servers : DataUtils.getServers()){
+				
+				if(DataUtils.getServerStringInfo(servers, "type").equalsIgnoreCase(server)){
+					
+					if(DataUtils.getServerStringInfo(servers, "status").equalsIgnoreCase("join")){
+						
+						
+						
+					}
+					
+				}
+				
+			}
+			
+		}else{
+			
+			p.sendMessage("§cUne erreur est survenue !");
+			p.playSound(p.getLocation(), Sound.ARROW_HIT, 100, 1);
+			
+		}
+		
+	}
+
+}
