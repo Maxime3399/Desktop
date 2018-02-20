@@ -11,5 +11,5 @@ UseSSL: false
 
 Server: "Srv1"
 Type: "quakecraft"
-Directory: 'C:\Users\Maxime\Desktop\MaxMinigames\servers\Srv1'
+Directory: 'C:\Users\Maxime\Desktop\Développement\Projets\MaxMinigames\servers\Srv1'
 File: "run.bat"

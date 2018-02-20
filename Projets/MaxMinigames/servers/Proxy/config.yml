@@ -1,6 +1,16 @@
 ip_forward: true
 network_compression_threshold: 256
 stats: ab656a18-017b-45a4-a200-851d0e2f511e
+permissions:
+  default: null
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.server
+  - bungeecord.command.list
+  - bungeecord.command.send
 groups:
   Maxime3399:
   - admin
@@ -14,7 +24,6 @@ servers:
     address: localhost:30001
     restricted: false
 timeout: 30000
-player_limit: -1
 listeners:
 - query_port: 25577
   motd: ''
@@ -33,16 +42,7 @@ listeners:
   tab_size: 60
   force_default_server: false
 prevent_proxy_connections: false
-permissions:
-  default: null
-  admin:
-  - bungeecord.command.alert
-  - bungeecord.command.end
-  - bungeecord.command.ip
-  - bungeecord.command.reload
-  - bungeecord.command.server
-  - bungeecord.command.list
-  - bungeecord.command.send
+player_limit: -1
 online_mode: true
 log_commands: false
 disabled_commands:
