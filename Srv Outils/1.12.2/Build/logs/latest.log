@@ -1,0 +1,259 @@
+[15:35:23] [Server thread/INFO]: Loading properties
+[15:35:23] [Server thread/INFO]: Default game type: CREATIVE
+[15:35:24] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-4bd94dc-fb414fe (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:35:24] [Server thread/INFO]: Debug logging is disabled
+[15:35:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:35:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:35:24] [Server thread/INFO]: Generating keypair
+[15:35:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:35:24] [Server thread/INFO]: Using default channel type
+[15:35:24] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:35:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[15:35:24] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:35:24] [Server thread/INFO]: Preparing level "world"
+[15:35:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:35:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:35:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:35:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:35:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:35:24] [Server thread/INFO]: View Distance: 10
+[15:35:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:35:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:35:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:35:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:35:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:35:24] [Server thread/INFO]: Random Lighting Updates: false
+[15:35:24] [Server thread/INFO]: Mob Spawn Range: 4
+[15:35:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:35:24] [Server thread/INFO]: Structure Info Saving: true
+[15:35:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:35:24] [Server thread/INFO]: Max TNT Explosions: 100
+[15:35:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:35:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:35:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7921942702055568309)
+[15:35:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[15:35:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:35:25] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[15:35:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:35:25] [Server thread/INFO]: Done (1,136s)! For help, type "help" or "?"
+[15:35:41] [User Authenticator #1/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[15:35:41] [Server thread/INFO]: Maxime3399[/127.0.0.1:52875] logged in with entity id 0 at ([world]0.5, 70.0, 0.5)
+[15:35:47] [Server thread/INFO]: Maxime3399 issued server command: /gamerule doDaylightCycle false
+[15:35:47] [Server thread/INFO]: [Maxime3399: Game rule doDaylightCycle has been updated to false]
+[15:35:50] [Server thread/INFO]: Maxime3399 issued server command: /time set 1000
+[15:35:50] [Server thread/INFO]: [Maxime3399: Set the time to 1000]
+[15:42:45] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[15:42:55] [Server thread/INFO]: Maxime3399 issued server command: //set quartz_block
+[15:43:31] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[15:43:43] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:44:43] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:44:55] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:45:07] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:45:13] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:48:03] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:48:05] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[15:48:57] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:49:09] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[15:49:19] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[15:49:24] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:53:11] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[15:53:29] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[15:53:33] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:53:40] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:53:44] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[15:56:31] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[15:56:46] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[15:56:52] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[15:56:56] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:00:32] [Server thread/INFO]: Maxime3399 issued server command: //replace quartz_block stone:5
+[16:00:47] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:00:49] [Server thread/INFO]: Maxime3399 issued server command: //replace quartz_block stone:6
+[16:01:09] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:01:16] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:04:13] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:04:20] [Server thread/INFO]: Maxime3399 issued server command: //set stone:6
+[16:06:23] [Server thread/INFO]: Maxime3399 has made the advancement [Ice Bucket Challenge]
+[16:08:32] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:08:47] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:08:56] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:09:02] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:09:20] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:10:03] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:10:52] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:11:29] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:11:37] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:11:46] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:11:52] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:12:43] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:12:48] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:12:54] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:14:27] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:14:31] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:14:36] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:15:55] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:16:02] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:16:05] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:16:08] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:16:14] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:16:27] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:16:31] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:16:36] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:18:56] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:19:04] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:19:10] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:21:40] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:21:47] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:21:53] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:22:02] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:25:16] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:25:22] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:25:32] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:25:35] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:25:45] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:25:50] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:25:54] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:26:41] [Server thread/INFO]: Maxime3399 has made the advancement [Stone Age]
+[16:27:41] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:27:45] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:27:51] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:29:17] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:29:23] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:29:28] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:31:08] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:31:12] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:31:17] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:33:29] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:33:33] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:33:38] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:34:30] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:34:35] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:34:41] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:35:33] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:35:37] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:35:44] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:36:33] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:36:38] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:36:43] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:38:30] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:38:35] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:38:41] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:39:13] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:39:18] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:39:23] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:41:17] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:41:25] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:41:31] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:42:28] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:42:57] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:43:06] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:43:10] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:43:15] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:45:45] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:45:49] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:45:55] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:48:34] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:48:43] [Server thread/INFO]: Maxime3399 issued server command: //set stone:6
+[16:59:04] [Server thread/INFO]: Maxime3399 issued server command: /gamerule doMobSpawning false
+[16:59:04] [Server thread/INFO]: [Maxime3399: Game rule doMobSpawning has been updated to false]
+[17:04:01] [Server thread/INFO]: Maxime3399 issued server command: //schematic
+[17:04:22] [Server thread/INFO]: Maxime3399 has made the advancement [Cover Me With Diamonds]
+[17:04:47] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[17:04:56] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:05:05] [Server thread/INFO]: Maxime3399 issued server command: //schematic
+[17:05:09] [Server thread/INFO]: Maxime3399 issued server command: //schematic save test
+[17:05:09] [Server thread/INFO]: [WorldEdit] Maxime3399 saved C:\Users\Maxime\Desktop\Développement\Srv Outils\1.12.2\Build\plugins\WorldEdit\schematics\test.schematic
+[17:05:21] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:05:28] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:05:33] [Server thread/INFO]: Maxime3399 issued server command: /weather clear
+[17:05:33] [Server thread/INFO]: [Maxime3399: Changing to clear weather]
+[17:05:36] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:05:42] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[17:05:52] [Server thread/INFO]: Maxime3399 issued server command: //schematic
+[17:05:55] [Server thread/INFO]: Maxime3399 issued server command: //schematic list
+[17:06:00] [Server thread/INFO]: Maxime3399 issued server command: //schematic load
+[17:06:05] [Server thread/INFO]: Maxime3399 issued server command: //schematic load test
+[17:06:05] [Server thread/INFO]: [WorldEdit] Maxime3399 loaded C:\Users\Maxime\Desktop\Développement\Srv Outils\1.12.2\Build\plugins\WorldEdit\schematics\test.schematic
+[17:06:08] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:06:28] [Server thread/INFO]: Maxime3399 issued server command: //schematic delete test
+[17:06:29] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[17:06:49] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:06:59] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:07:04] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:07:34] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:08:18] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:08:24] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:08:31] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:10:54] [Server thread/INFO]: Maxime3399 issued server command: //weather clear
+[17:11:23] [Server thread/INFO]: Maxime3399 issued server command: /weather
+[17:11:30] [Server thread/INFO]: Maxime3399 issued server command: /gamerule doWeatherCycle false
+[17:11:30] [Server thread/INFO]: [Maxime3399: Game rule doWeatherCycle has been updated to false]
+[17:11:34] [Server thread/INFO]: Maxime3399 issued server command: /weather clear
+[17:11:34] [Server thread/INFO]: [Maxime3399: Changing to clear weather]
+[17:12:21] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:12:27] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:12:33] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:13:44] [Server thread/INFO]: Maxime3399 issued server command: //replace planks:2 planks:5
+[17:13:50] [Server thread/INFO]: Maxime3399 issued server command: //replace planks:2 planks:3
+[17:14:04] [Server thread/INFO]: Maxime3399 issued server command: //replace planks:5 planks:0
+[17:15:19] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:15:25] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:16:05] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:32:19] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:32:25] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:32:33] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:32:47] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:33:05] [Server thread/INFO]: Maxime3399 issued server command: //replace planks:0 planks:1
+[17:33:31] [Server thread/INFO]: Maxime3399 issued server command: //replace 126:0 126:1
+[17:34:02] [Server thread/INFO]: Maxime3399 issued server command: //replace oak_stairs spruce_stairs
+[17:34:13] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[17:34:32] [Server thread/INFO]: Maxime3399 issued server command: //replace oak_stairs spruce_stairs
+[17:34:34] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[17:35:32] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:35:38] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:36:00] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:38:15] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:38:22] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:38:28] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:38:40] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:38:55] [Server thread/INFO]: Maxime3399 issued server command: //replace 5:1 5:2
+[17:39:07] [Server thread/INFO]: Maxime3399 issued server command: //replace 5:2 5:5
+[17:39:21] [Server thread/INFO]: Maxime3399 issued server command: //replace 126:1 126:5
+[17:40:06] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:40:29] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:42:20] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:42:25] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:42:38] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:42:47] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:43:01] [Server thread/INFO]: Maxime3399 issued server command: //replace 5:5 4
+[17:43:18] [Server thread/INFO]: Maxime3399 issued server command: //replace wooder_slab:5 stone_slab
+[17:43:30] [Server thread/INFO]: Maxime3399 issued server command: //replace wooder_slab:5 stone_slab:3
+[17:43:54] [Server thread/INFO]: Maxime3399 issued server command: //replace stone_slab 44:3
+[17:45:49] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:45:56] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:49:06] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:49:11] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:49:16] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:49:28] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:49:41] [Server thread/INFO]: Maxime3399 issued server command: //replace 4 45
+[17:49:54] [Server thread/INFO]: Maxime3399 issued server command: //replace 44:3 44:4
+[17:50:45] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:50:55] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:52:48] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:52:54] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[18:10:59] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[18:10:59] [Server thread/INFO]: Maxime3399 left the game
+[18:24:02] [Server thread/INFO]: Stopping the server
+[18:24:02] [Server thread/INFO]: Stopping server
+[18:24:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[18:24:02] [Server thread/INFO]: Saving players
+[18:24:03] [Server thread/INFO]: Saving worlds
+[18:24:03] [Server thread/INFO]: Saving chunks for level 'world'/overworld

@@ -1,227 +1,88 @@
-[22:16:44] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[22:16:44] [Server thread/INFO]: Loading properties
-[22:16:44] [Server thread/INFO]: Default game type: ADVENTURE
-[22:16:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[22:16:44] [Server thread/INFO]: Debug logging is disabled
-[22:16:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:16:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:16:44] [Server thread/INFO]: Generating keypair
-[22:16:44] [Server thread/INFO]: Starting Minecraft server on *:30000
-[22:16:44] [Server thread/INFO]: Using default channel type
-[22:16:44] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[22:16:44] [Server thread/ERROR]: ebean.properties not found
-[22:16:44] [Server thread/WARN]: No Entities found in ClassPath using ClassPathReader [com.avaje.ebeaninternal.server.util.DefaultClassPathReader@1e84c9f] Classpath Searched[[file:/C:/Users/Maxime/Desktop/MaxMinigames/servers/Srv1/quakecraft/spigot-1.8.8.jar]]
-[22:16:44] [Server thread/INFO]: Classpath search hits in jars[] pkgs[]  searchTime[2]
-[22:16:44] [Server thread/INFO]: DataSourcePool [MaxQuake] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
-[22:16:44] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
-[22:16:44] [Server thread/INFO]: Entities enhanced[0] subclassed[0]
-[22:16:45] [Server thread/INFO]: [Mitsu] Loading Mitsu v1.0.0-a1.0
-[22:16:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
-[22:16:45] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
-[22:16:45] [Server thread/INFO]: [MaxQuake] Loading MaxQuake v1.0.0-a1.0
-[22:16:45] [Server thread/INFO]: [MaxPermissions] Loading MaxPermissions v1.0.0-a1
-[22:16:45] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
-[22:16:45] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
-[22:16:45] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[22:16:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:16:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:16:45] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[22:16:45] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[22:16:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:16:45] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[22:16:45] [Server thread/INFO]: Preparing level "world"
-[22:16:45] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:16:45] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:16:45] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:16:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:16:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:16:45] [Server thread/INFO]: View Distance: 10
-[22:16:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:16:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[22:16:45] [Server thread/INFO]: Clear tick list: false
-[22:16:45] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:16:45] [Server thread/INFO]: Anti X-Ray: true
-[22:16:45] [Server thread/INFO]: 	Engine Mode: 1
-[22:16:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[22:16:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[22:16:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:16:45] [Server thread/INFO]: Mob Spawn Range: 4
-[22:16:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:16:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:16:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:16:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:16:45] [Server thread/INFO]: Random Lighting Updates: false
-[22:16:45] [Server thread/INFO]: Sending up to 10 chunks per packet
-[22:16:45] [Server thread/INFO]: Structure Info Saving: true
-[22:16:45] [Server thread/INFO]: Max TNT Explosions: 100
-[22:16:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:16:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:16:45] [Server thread/INFO]: Max Entity Collisions: 8
-[22:16:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
-[22:16:45] [Server thread/INFO]: [Mitsu] Enabling Mitsu v1.0.0-a1.0
-[22:16:45] [Server thread/INFO]: [0;33;1mMitsu [0;35;1m: [0;32;1mThe configuration file has been created ! You have to configure the plugin with the file "config.yml".[m
-[22:16:45] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Nom de base de donnée illégal: ''
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.getInstance(Util.java:382)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3593)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3525)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2620)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1662)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1581)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.registerPlugin(DataUtils.java:17)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onEnable(MainClass.java:36)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
-[22:16:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[22:16:45] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Nom de base de donnée illégal: ''
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.getInstance(Util.java:382)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3593)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3525)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2620)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1662)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1581)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.registerPlugin(DataUtils.java:23)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onEnable(MainClass.java:36)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
-[22:16:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[22:16:45] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Nom de base de donnée illégal: ''
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.getInstance(Util.java:382)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3593)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3525)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2620)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1662)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1581)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.registerPlugin(DataUtils.java:29)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onEnable(MainClass.java:36)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
-[22:16:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[22:16:45] [Server thread/WARN]: java.sql.SQLException: Aucune base n'a été sélectionnée
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1073)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3593)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3525)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2620)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2570)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1474)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.getServers(DataUtils.java:77)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.serverExist(DataUtils.java:40)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onEnable(MainClass.java:37)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
-[22:16:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[22:16:45] [Server thread/INFO]: [0;33;1mMitsu [0;35;1m: [0;31;1mThis server was not found in the database ! Please add it or modify the file "config.yml".[m
-[22:16:45] [Server thread/INFO]: [Mitsu] Disabling Mitsu v1.0.0-a1.0
-[22:16:45] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Nom de base de donnée illégal: ''
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.Util.getInstance(Util.java:382)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3593)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3525)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1986)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2140)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2620)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1662)
-[22:16:45] [Server thread/WARN]: 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1581)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.utils.DataUtils.setServerStringInfo(DataUtils.java:170)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onDisable(MainClass.java:94)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424)
-[22:16:45] [Server thread/WARN]: 	at fr.Maxime3399.Mitsu.MainClass.onEnable(MainClass.java:40)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
-[22:16:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
-[22:16:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
-[22:16:45] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[22:16:45] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
-[22:16:45] [Server thread/INFO]: [MaxQuake] Enabling MaxQuake v1.0.0-a1.0
-[22:16:45] [Server thread/INFO]: [MaxPermissions] Enabling MaxPermissions v1.0.0-a1
-[22:16:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:16:45] [Server thread/INFO]: Done (0,585s)! For help, type "help" or "?"
-[22:16:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
-[22:16:56] [Server thread/INFO]: Plugins (5): [0;31;1mMitsu[0;37;1m, [0;32;1mViaVersion[0;37;1m, [0;32;1mMaxQuake[0;37;1m, [0;32;1mMaxPermissions[0;37;1m, [0;32;1mProtocolLib[m
-[22:16:57] [Server thread/INFO]: Stopping the server
-[22:16:57] [Server thread/INFO]: Stopping server
-[22:16:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
-[22:16:57] [Server thread/INFO]: [MaxPermissions] Disabling MaxPermissions v1.0.0-a1
-[22:16:57] [Server thread/INFO]: [MaxQuake] Disabling MaxQuake v1.0.0-a1.0
-[22:16:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
-[22:16:57] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[22:16:57] [Server thread/INFO]: Saving players
-[22:16:57] [Server thread/INFO]: Saving worlds
-[22:16:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:03:50] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[16:03:50] [Server thread/INFO]: Loading properties
+[16:03:50] [Server thread/INFO]: Default game type: ADVENTURE
+[16:03:51] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[16:03:51] [Server thread/INFO]: Debug logging is disabled
+[16:03:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:03:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:03:51] [Server thread/INFO]: Generating keypair
+[16:03:51] [Server thread/INFO]: Starting Minecraft server on *:30000
+[16:03:51] [Server thread/INFO]: Using default channel type
+[16:03:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:03:51] [Server thread/INFO]: [Mitsu] Loading Mitsu v1.0.0-a1.0
+[16:03:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:03:51] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[16:03:51] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
+[16:03:51] [Server thread/INFO]: [MaxLobby] Loading MaxLobby v1.0.0-a1.0
+[16:03:51] [Server thread/INFO]: [MaxPermissions] Loading MaxPermissions v1.0.0-a1
+[16:03:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:03:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:03:51] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[16:03:51] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[16:03:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:03:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:03:51] [Server thread/INFO]: Preparing level "world"
+[16:03:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:03:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:03:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:03:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:03:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:03:52] [Server thread/INFO]: View Distance: 10
+[16:03:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:03:52] [Server thread/INFO]: Mob Spawn Range: 4
+[16:03:52] [Server thread/INFO]: Anti X-Ray: true
+[16:03:52] [Server thread/INFO]: 	Engine Mode: 1
+[16:03:52] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:03:52] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:03:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:03:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:03:52] [Server thread/INFO]: Random Lighting Updates: false
+[16:03:52] [Server thread/INFO]: Max TNT Explosions: 100
+[16:03:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:03:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:03:52] [Server thread/INFO]: Structure Info Saving: true
+[16:03:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:03:52] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:03:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:03:52] [Server thread/INFO]: Max Entity Collisions: 8
+[16:03:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:03:52] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:03:52] [Server thread/INFO]: Clear tick list: false
+[16:03:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:03:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7921942702055568309)
+[16:03:52] [Server thread/INFO]: [Mitsu] Enabling Mitsu v1.0.0-a1.0
+[16:03:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:03:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:03:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[16:03:52] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[16:03:52] [Server thread/INFO]: [MaxLobby] Enabling MaxLobby v1.0.0-a1.0
+[16:03:52] [Server thread/INFO]: [MaxPermissions] Enabling MaxPermissions v1.0.0-a1
+[16:03:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:03:52] [Server thread/INFO]: Done (1,000s)! For help, type "help" or "?"
+[16:03:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[16:04:13] [Thread-9/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[16:04:13] [Server thread/INFO]: Maxime3399[/127.0.0.1:63466] logged in with entity id 0 at ([world]612.3172667135808, 65.0, 228.68875495204955)
+[16:04:39] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[16:04:39] [Server thread/INFO]: Maxime3399 left the game.
+[16:08:19] [Thread-10/INFO]: UUID of player Cubenderz is 044a81f4-2ff0-4a9c-b4a1-dce80d4c25dd
+[16:08:19] [Server thread/INFO]: Cubenderz[/127.0.0.1:63704] logged in with entity id 1 at ([world]612.5, 65.0, 228.5)
+[16:08:33] [Server thread/INFO]: Cubenderz lost connection: Disconnected
+[16:08:33] [Server thread/INFO]: Cubenderz left the game.
+[16:10:30] [Server thread/INFO]: Stopping the server
+[16:10:30] [Server thread/INFO]: Stopping server
+[16:10:30] [Server thread/INFO]: [MaxPermissions] Disabling MaxPermissions v1.0.0-a1
+[16:10:30] [Server thread/INFO]: [MaxLobby] Disabling MaxLobby v1.0.0-a1.0
+[16:10:30] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
+[16:10:30] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[16:10:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:10:30] [Server thread/INFO]: [Mitsu] Disabling Mitsu v1.0.0-a1.0
+[16:10:30] [Server thread/INFO]: Saving players
+[16:10:30] [Server thread/INFO]: Saving worlds
+[16:10:30] [Server thread/INFO]: Saving chunks for level 'world'/Overworld

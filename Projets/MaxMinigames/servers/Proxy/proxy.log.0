@@ -206,3 +206,204 @@
 21:56:27 [INFOS] Saving reconnect locations
 21:56:27 [INFOS] Disabling plugins
 21:56:27 [INFOS] Closing IO threads
+21:27:47 [INFOS] Using standard Java JCE cipher.
+21:27:47 [INFOS] Using standard Java compressor.
+21:27:47 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:aef3861:1294
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:27:48 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+21:27:48 [INFOS] Listening on /0.0.0.0:25565
+21:28:24 [INFOS] [/127.0.0.1:57794] <-> InitialHandler has connected
+21:28:26 [INFOS] [/127.0.0.1:57795] <-> InitialHandler has connected
+21:28:32 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:28:33 [INFOS] Netty is not using direct IO buffers.
+21:28:55 [INFOS] [Maxime3399] <-> ServerConnector [Srv2] has connected
+21:28:55 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:29:14 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:29:14 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv2] has disconnected
+21:29:40 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:29:41 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:29:41 [INFOS] [/127.0.0.1:57808] <-> InitialHandler has connected
+21:45:25 [INFOS] [/127.0.0.1:57989] <-> InitialHandler has connected
+21:45:27 [INFOS] [/127.0.0.1:57991] <-> InitialHandler has connected
+21:45:32 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:46:13 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:46:14 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:46:14 [INFOS] [/127.0.0.1:58009] <-> InitialHandler has connected
+21:46:15 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:46:21 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:47:19 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:47:19 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:47:20 [INFOS] [/127.0.0.1:58078] <-> InitialHandler has connected
+21:47:22 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:47:28 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:47:52 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:47:53 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:47:53 [INFOS] [/127.0.0.1:58094] <-> InitialHandler has connected
+21:48:18 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:48:19 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:48:36 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:48:37 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:48:37 [INFOS] [/127.0.0.1:58105] <-> InitialHandler has connected
+21:48:45 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:48:51 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:48:55 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:48:56 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:48:56 [INFOS] [/127.0.0.1:58120] <-> InitialHandler has connected
+21:49:07 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:49:12 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:49:16 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:49:16 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:49:17 [INFOS] [/127.0.0.1:58136] <-> InitialHandler has connected
+21:49:28 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:49:33 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:49:39 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:49:40 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:49:40 [INFOS] [/127.0.0.1:58153] <-> InitialHandler has connected
+21:50:04 [INFOS] [/127.0.0.1:58163] <-> InitialHandler has connected
+21:50:08 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+21:50:10 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+21:50:11 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+21:50:11 [INFOS] [/127.0.0.1:58167] <-> InitialHandler has connected
+21:53:34 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:53:40 [INFOS] [/127.0.0.1:58210] <-> InitialHandler has connected
+21:53:41 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:55:26 [INFOS] [/127.0.0.1:58361] <-> InitialHandler has connected
+21:55:37 [INFOS] [/127.0.0.1:58363] <-> InitialHandler has connected
+21:55:38 [INFOS] [Maxime3399] <-> InitialHandler has connected
+21:55:44 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+22:09:54 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+22:09:54 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+22:09:55 [INFOS] [/127.0.0.1:58388] <-> InitialHandler has connected
+22:09:59 [INFOS] §cCommand not found
+22:09:59 [INFOS] §cCommand not found
+22:10:00 [INFOS] Closing listener [id: 0xf4753df7, L:/0:0:0:0:0:0:0:0:25565]
+22:10:00 [INFOS] Closing pending connections
+22:10:00 [INFOS] Disconnecting 0 connections
+22:10:00 [INFOS] Saving reconnect locations
+22:10:00 [INFOS] Disabling plugins
+22:10:00 [INFOS] Closing IO threads
+22:10:03 [INFOS] §cCommand not found
+15:03:37 [INFOS] Using standard Java JCE cipher.
+15:03:37 [INFOS] Using standard Java compressor.
+15:03:37 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:aef3861:1294
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:03:37 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:37 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+15:03:38 [INFOS] Listening on /0.0.0.0:25565
+15:04:16 [INFOS] [/127.0.0.1:60399] <-> InitialHandler has connected
+15:04:20 [INFOS] [/127.0.0.1:60400] <-> InitialHandler has connected
+15:04:24 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+15:04:24 [INFOS] Netty is not using direct IO buffers.
+15:08:36 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+15:08:36 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+15:08:37 [INFOS] [/127.0.0.1:60412] <-> InitialHandler has connected
+15:26:24 [INFOS] [/127.0.0.1:60449] <-> InitialHandler has connected
+15:26:25 [INFOS] [/127.0.0.1:60451] <-> InitialHandler has connected
+15:27:02 [INFOS] [/127.0.0.1:60525] <-> InitialHandler has connected
+15:27:04 [INFOS] [Maxime3399] <-> InitialHandler has connected
+15:27:08 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+15:27:46 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+15:27:47 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+15:27:47 [INFOS] [/127.0.0.1:60532] <-> InitialHandler has connected
+15:28:21 [INFOS] [Maxime3399] <-> InitialHandler has connected
+15:28:26 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+15:30:41 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+15:30:42 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+15:30:42 [INFOS] [/127.0.0.1:60541] <-> InitialHandler has connected
+15:33:22 [INFOS] [Maxime3399] <-> InitialHandler has connected
+15:33:28 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+15:34:06 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+15:34:07 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+15:34:07 [INFOS] [/127.0.0.1:60553] <-> InitialHandler has connected
+15:34:14 [INFOS] Closing listener [id: 0x66a8b698, L:/0:0:0:0:0:0:0:0:25565]
+15:34:14 [INFOS] Closing pending connections
+15:34:14 [INFOS] Disconnecting 0 connections
+15:34:15 [INFOS] Saving reconnect locations
+15:34:15 [INFOS] Disabling plugins
+15:34:15 [INFOS] Closing IO threads
+16:03:51 [INFOS] Using standard Java JCE cipher.
+16:03:51 [INFOS] Using standard Java compressor.
+16:03:51 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:aef3861:1294
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:03:51 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:51 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+16:03:52 [INFOS] Listening on /0.0.0.0:25565
+16:04:04 [INFOS] [/127.0.0.1:63459] <-> InitialHandler has connected
+16:04:11 [INFOS] [/127.0.0.1:63463] <-> InitialHandler has connected
+16:04:13 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+16:04:13 [INFOS] Netty is not using direct IO buffers.
+16:04:39 [INFOS] [Maxime3399] <-> ServerConnector [Srv2] has connected
+16:04:39 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+16:05:55 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+16:05:56 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv2] has disconnected
+16:05:56 [INFOS] [/127.0.0.1:63491] <-> InitialHandler has connected
+16:06:29 [INFOS] [/127.0.0.1:63576] <-> InitialHandler has connected
+16:06:31 [INFOS] [Maxime3399] <-> ServerConnector [Srv2] has connected
+16:08:02 [INFOS] [/127.0.0.1:63697] <-> InitialHandler has connected
+16:08:02 [INFOS] [Cubenderz] <-> InitialHandler has connected
+16:08:17 [INFOS] [Cubenderz] <-> InitialHandler has connected
+16:08:19 [INFOS] [Cubenderz] <-> ServerConnector [Srv1] has connected
+16:08:33 [INFOS] [Cubenderz] <-> ServerConnector [Srv2] has connected
+16:08:33 [INFOS] [Cubenderz] <-> DownstreamBridge <-> [Srv1] has disconnected
+16:09:58 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+16:09:58 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv2] has disconnected
+16:09:58 [INFOS] [/127.0.0.1:63718] <-> InitialHandler has connected
+16:10:08 [INFOS] [Cubenderz] disconnected with: §f§e§lQUAKECRAFT§r
+§7par Maxime3399§r
+ 
+§aMerci d'avoir joué !
+16:10:08 [INFOS] [Cubenderz] <-> DownstreamBridge <-> [Srv2] has disconnected
+16:10:08 [INFOS] [Cubenderz] -> UpstreamBridge has disconnected
+16:10:43 [INFOS] Closing listener [id: 0x028ad606, L:/0:0:0:0:0:0:0:0:25565]
+16:10:43 [INFOS] Closing pending connections
+16:10:43 [INFOS] Disconnecting 0 connections
+16:10:44 [INFOS] Saving reconnect locations
+16:10:44 [INFOS] Disabling plugins
+16:10:44 [INFOS] Closing IO threads
+16:10:46 [INFOS] Thank you and goodbye
