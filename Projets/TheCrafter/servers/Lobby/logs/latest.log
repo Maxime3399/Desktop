@@ -1,0 +1,173 @@
+[16:26:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:26:24] [Server thread/INFO]: Loading properties
+[16:26:25] [Server thread/INFO]: Default game type: ADVENTURE
+[16:26:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-c3093ef-7e94e65 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[16:26:25] [Server thread/INFO]: Debug logging is disabled
+[16:26:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:26:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:26:25] [Server thread/INFO]: Generating keypair
+[16:26:25] [Server thread/INFO]: Starting Minecraft server on *:30000
+[16:26:25] [Server thread/INFO]: Using default channel type
+[16:26:25] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:26:25] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:26:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:26:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:26:25] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[16:26:25] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[16:26:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:26:25] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:26:25] [Server thread/INFO]: Preparing level "world"
+[16:26:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:26:25] [Server thread/INFO]: Mob Spawn Range: 4
+[16:26:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:26:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:26:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:26:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:26:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:26:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:26:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:26:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:26:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[16:26:25] [Server thread/INFO]: View Distance: 10
+[16:26:25] [Server thread/INFO]: Random Lighting Updates: false
+[16:26:25] [Server thread/INFO]: Structure Info Saving: true
+[16:26:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:26:25] [Server thread/INFO]: Max TNT Explosions: 100
+[16:26:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:26:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:26:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:26:26] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7921942702055568309)
+[16:26:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:26:26] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:26:26] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[16:26:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:26:26] [Server thread/INFO]: Done (0,900s)! For help, type "help" or "?"
+[16:26:34] [User Authenticator #1/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[16:26:34] [Server thread/WARN]: Invalid statistic in .\world\stats\b2297497-20f5-4f46-88be-a27d445fb5f0.json: Don't know what achievement.openInventory is
+[16:26:34] [Server thread/WARN]: Invalid statistic in .\world\stats\b2297497-20f5-4f46-88be-a27d445fb5f0.json: Don't know what achievement.exploreAllBiomes is
+[16:26:34] [Server thread/INFO]: Maxime3399[/127.0.0.1:64588] logged in with entity id 0 at ([world]612.5, 11.892498243369948, 228.5)
+[16:26:42] [Server thread/INFO]: Opped Maxime3399
+[16:26:50] [Server thread/INFO]: Maxime3399 issued server command: /gamerule doDaylightCycle false
+[16:26:50] [Server thread/INFO]: [Maxime3399: Game rule doDaylightCycle has been updated to false]
+[16:27:01] [Server thread/INFO]: Maxime3399 issued server command: /gamerule doWeatherCycle false
+[16:27:01] [Server thread/INFO]: [Maxime3399: Game rule doWeatherCycle has been updated to false]
+[16:27:05] [Server thread/INFO]: Maxime3399 issued server command: /time set 1000
+[16:27:05] [Server thread/INFO]: [Maxime3399: Set the time to 1000]
+[16:27:11] [Server thread/INFO]: Maxime3399 issued server command: /tp Maxime3399 0 60 0£
+[16:27:11] [Server thread/INFO]: [Maxime3399: '0£' is not a valid number]
+[16:27:14] [Server thread/INFO]: Maxime3399 issued server command: /tp Maxime3399 0 60 0
+[16:27:14] [Server thread/INFO]: [Maxime3399: Teleported Maxime3399 to 0.5, 60.0, 0.5]
+[16:27:24] [Server thread/INFO]: Maxime3399 issued server command: /setblock ~ ~-1 ~ stone
+[16:27:24] [Server thread/INFO]: [Maxime3399: Block placed]
+[16:27:27] [Server thread/INFO]: Maxime3399 issued server command: /setworldspawn
+[16:27:27] [Server thread/INFO]: [Maxime3399: Set the world spawn point to (0, 60, 0)]
+[16:28:11] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[16:28:11] [Server thread/INFO]: Maxime3399 left the game
+[16:28:40] [User Authenticator #2/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[16:28:40] [Server thread/INFO]: Maxime3399[/127.0.0.1:64604] logged in with entity id 1 at ([world]0.5571116336234245, 60.0, 0.4329502765934543)
+[16:34:38] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:34:47] [Server thread/INFO]: Maxime3399 issued server command: //set quart_block
+[16:36:48] [Server thread/INFO]: Maxime3399 issued server command: //set quart_block
+[16:36:52] [Server thread/INFO]: Maxime3399 issued server command: //set quart_block
+[16:37:32] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:37:35] [Server thread/INFO]: Maxime3399 issued server command: //rotate
+[16:37:44] [Server thread/INFO]: Maxime3399 issued server command: //rotate x 180
+[16:37:55] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 180 0
+[16:37:57] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:38:02] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:38:07] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 180 0
+[16:38:10] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:38:19] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 0 180
+[16:38:21] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:38:33] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:38:36] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:38:37] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:38:40] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:39:31] [Server thread/INFO]: Maxime3399 issued server command: //set 44:7
+[16:39:40] [Server thread/INFO]: Maxime3399 issued server command: //set 44:7
+[16:46:30] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:46:41] [Server thread/INFO]: Maxime3399 issued server command: //set 169
+[16:55:32] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:55:47] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[16:55:50] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[16:56:03] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:56:09] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:56:12] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:56:16] [Server thread/INFO]: Maxime3399 issued server command: //undo
+[16:56:23] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[16:57:59] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[16:58:12] [Server thread/INFO]: Maxime3399 issued server command: //set nether_portal
+[16:58:18] [Server thread/INFO]: Maxime3399 issued server command: //set nether_porta
+[16:58:21] [Server thread/INFO]: Maxime3399 issued server command: //set nether
+[16:59:01] [Server thread/INFO]: Maxime3399 issued server command: //set 119
+[16:59:24] [Server thread/INFO]: Maxime3399 issued server command: //set portal
+[16:59:37] [Server thread/INFO]: Maxime3399 issued server command: //set portal
+[16:59:55] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:00:03] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 90 0
+[17:00:06] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:00:30] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:00:36] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 90 0
+[17:00:39] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 90 0
+[17:00:43] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 90 0
+[17:00:44] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:01:03] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 90 90
+[17:01:04] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:01:09] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 0 90
+[17:01:10] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 0 90
+[17:01:12] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 0 90
+[17:01:13] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:01:15] [Server thread/INFO]: Maxime3399 issued server command: //rotate 0 0 90
+[17:01:16] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:01:27] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:01:50] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:01:53] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:02:15] [Server thread/INFO]: Maxime3399 issued server command: /give Maxime3399 portal
+[17:02:15] [Server thread/INFO]: [Maxime3399: There is no such item with name minecraft:portal]
+[17:02:19] [Server thread/INFO]: Maxime3399 issued server command: /give Maxime3399 119
+[17:02:19] [Server thread/INFO]: [Maxime3399: There is no such item with name minecraft:119]
+[17:02:51] [Server thread/INFO]: Maxime3399 issued server command: //fast
+[17:02:57] [Server thread/INFO]: Maxime3399 issued server command: //fast
+[17:03:27] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1
+[17:03:30] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1 stone
+[17:03:30] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:03:33] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1 portal
+[17:03:33] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:03:38] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1 portal 1
+[17:03:38] [Server thread/INFO]: [Maxime3399: The block couldn't be placed]
+[17:03:40] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1 portal 2
+[17:03:40] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:03:55] [Server thread/INFO]: Maxime3399 issued server command: /setblock -37 60 1 portal 2
+[17:03:55] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:04:03] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 1 portal 2
+[17:04:03] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:04:12] [Server thread/INFO]: Maxime3399 issued server command: /setblock -36 60 0 portal 2
+[17:04:12] [Server thread/INFO]: [Maxime3399: Block placed]
+[17:20:56] [Server thread/INFO]: Maxime3399 issued server command: //wand
+[17:21:12] [Server thread/INFO]: Maxime3399 issued server command: //copy
+[17:21:15] [Server thread/INFO]: Maxime3399 issued server command: //set air
+[17:21:18] [Server thread/INFO]: Maxime3399 issued server command: //paste
+[17:25:47] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[17:25:47] [Server thread/INFO]: Maxime3399 left the game
+[17:38:55] [User Authenticator #3/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[17:38:55] [Server thread/INFO]: Maxime3399[/127.0.0.1:64793] logged in with entity id 2 at ([world]-1.857149407195256, 60.0, 0.3393212997091988)
+[17:39:51] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[17:39:51] [Server thread/INFO]: Maxime3399 left the game
+[17:40:55] [User Authenticator #4/INFO]: UUID of player Maxime3399 is b2297497-20f5-4f46-88be-a27d445fb5f0
+[17:40:55] [Server thread/INFO]: Maxime3399[/127.0.0.1:64804] logged in with entity id 3 at ([world]0.5526743149379486, 60.0, 0.3549162788382665)
+[18:00:35] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[18:00:35] [Server thread/INFO]: Maxime3399 left the game
+[18:00:46] [Server thread/INFO]: Stopping the server
+[18:00:46] [Server thread/INFO]: Stopping server
+[18:00:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[18:00:46] [Server thread/INFO]: Saving players
+[18:00:46] [Server thread/INFO]: Saving worlds
+[18:00:46] [Server thread/INFO]: Saving chunks for level 'world'/overworld

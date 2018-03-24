@@ -1,0 +1,103 @@
+16:12:43 [INFOS] Using standard Java JCE cipher.
+16:12:43 [INFOS] Using standard Java compressor.
+16:12:43 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:7ee0b6d:1303
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:12:43 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:43 [INFOS] Attempting to Jenkins download module cmd_alert v1303
+16:12:44 [INFOS] Download complete
+16:12:44 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:44 [INFOS] Attempting to Jenkins download module cmd_find v1303
+16:12:44 [INFOS] Download complete
+16:12:44 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:44 [INFOS] Attempting to Jenkins download module cmd_list v1303
+16:12:44 [INFOS] Download complete
+16:12:44 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:44 [INFOS] Attempting to Jenkins download module cmd_send v1303
+16:12:45 [INFOS] Download complete
+16:12:45 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:45 [INFOS] Attempting to Jenkins download module cmd_server v1303
+16:12:45 [INFOS] Download complete
+16:12:45 [INFOS] Attempting to update plugin from null to ModuleVersion(build=1303, git=7ee0b6d)
+16:12:45 [INFOS] Attempting to Jenkins download module reconnect_yaml v1303
+16:12:45 [INFOS] Download complete
+16:12:45 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [AVERTISSEMENT] Forced host server pvp is not defined
+16:12:45 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:45 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:12:46 [INFOS] Listening on /0.0.0.0:25577
+16:12:47 [INFOS] Closing listener [id: 0x7265acb5, L:/0:0:0:0:0:0:0:0:25577]
+16:12:47 [INFOS] Closing pending connections
+16:12:47 [INFOS] Disconnecting 0 connections
+16:12:48 [INFOS] Saving reconnect locations
+16:12:48 [INFOS] Disabling plugins
+16:12:48 [INFOS] Closing IO threads
+16:12:50 [INFOS] Thank you and goodbye
+16:25:35 [INFOS] Using standard Java JCE cipher.
+16:25:58 [INFOS] Using standard Java JCE cipher.
+16:25:58 [INFOS] Using standard Java compressor.
+16:25:58 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:7ee0b6d:1303
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:25:58 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [AVERTISSEMENT] Forced host server Lobby1 is not defined
+16:25:58 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:7ee0b6d:1303 by SpigotMC
+16:25:58 [INFOS] Listening on /0.0.0.0:25565
+16:26:32 [INFOS] [/127.0.0.1:64583] <-> InitialHandler has connected
+16:26:33 [INFOS] [/127.0.0.1:64585] <-> InitialHandler has connected
+16:26:34 [INFOS] [Maxime3399] <-> ServerConnector [Lobby] has connected
+16:26:35 [INFOS] Netty is not using direct IO buffers.
+16:28:10 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+16:28:10 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Lobby] has disconnected
+16:28:11 [INFOS] [/127.0.0.1:64590] <-> InitialHandler has connected
+16:28:36 [INFOS] [/127.0.0.1:64598] <-> InitialHandler has connected
+16:28:39 [INFOS] [/127.0.0.1:64601] <-> InitialHandler has connected
+16:28:40 [INFOS] [Maxime3399] <-> ServerConnector [Lobby] has connected
+17:25:47 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+17:25:47 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:25:47 [INFOS] [/127.0.0.1:64772] <-> InitialHandler has connected
+17:38:54 [INFOS] [Maxime3399] <-> InitialHandler has connected
+17:38:55 [INFOS] [Maxime3399] <-> ServerConnector [Lobby] has connected
+17:39:51 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+17:39:51 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Lobby] has disconnected
+17:39:51 [INFOS] [/127.0.0.1:64796] <-> InitialHandler has connected
+17:40:55 [INFOS] [Maxime3399] <-> InitialHandler has connected
+17:40:55 [INFOS] [Maxime3399] <-> ServerConnector [Lobby] has connected
+18:00:35 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+18:00:35 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Lobby] has disconnected
+18:00:35 [INFOS] [/127.0.0.1:64864] <-> InitialHandler has connected
+18:00:39 [INFOS] §cCommand not found
+18:00:39 [INFOS] §cCommand not found
+18:00:40 [INFOS] Closing listener [id: 0xdac913b5, L:/0:0:0:0:0:0:0:0:25565]
+18:00:40 [INFOS] Closing pending connections
+18:00:40 [INFOS] Disconnecting 0 connections
+18:00:40 [INFOS] Saving reconnect locations
+18:00:40 [INFOS] Disabling plugins
+18:00:41 [INFOS] Closing IO threads

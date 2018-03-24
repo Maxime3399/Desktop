@@ -1,0 +1,48 @@
+ip_forward: true
+network_compression_threshold: 256
+stats: 8337d115-acda-4ff5-a742-43ee73d39102
+groups:
+  Maxime3399:
+  - admin
+servers:
+  Lobby:
+    motd: ''
+    address: localhost:30000
+    restricted: false
+  Srv1:
+    motd: ''
+    address: localhost:30000
+    restricted: false
+timeout: 30000
+player_limit: -1
+listeners:
+- query_port: 25577
+  motd: ''
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    maxime3399.fr: Lobby1
+  ping_passthrough: false
+  priorities:
+  - Lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 1
+  tab_size: 60
+  force_default_server: false
+prevent_proxy_connections: false
+permissions:
+  default: null
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.server
+  - bungeecord.command.list
+online_mode: true
+log_commands: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000
