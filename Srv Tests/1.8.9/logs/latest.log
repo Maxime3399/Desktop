@@ -1,415 +1,239 @@
-[18:20:05] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[18:20:05] [Server thread/INFO]: Loading properties
-[18:20:05] [Server thread/INFO]: Default game type: CREATIVE
-[18:20:05] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[18:20:05] [Server thread/INFO]: Debug logging is disabled
-[18:20:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:20:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:20:05] [Server thread/INFO]: Generating keypair
-[18:20:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:20:05] [Server thread/INFO]: Using default channel type
-[18:20:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:20:05] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:20:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:20:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:20:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:20:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:20:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:20:05] [Server thread/INFO]: Preparing level "world"
-[18:20:05] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:20:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:20:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:20:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:20:05] [Server thread/INFO]: Mob Spawn Range: 4
-[18:20:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:20:05] [Server thread/INFO]: Anti X-Ray: true
-[18:20:05] [Server thread/INFO]: 	Engine Mode: 1
-[18:20:05] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:20:05] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:20:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:20:05] [Server thread/INFO]: Structure Info Saving: true
-[18:20:05] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:20:05] [Server thread/INFO]: Random Lighting Updates: false
-[18:20:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:20:05] [Server thread/INFO]: Max TNT Explosions: 100
-[18:20:05] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:20:05] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:20:05] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:20:05] [Server thread/INFO]: Clear tick list: false
-[18:20:05] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:20:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:20:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:20:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:20:05] [Server thread/INFO]: Max Entity Collisions: 8
-[18:20:05] [Server thread/INFO]: View Distance: 10
-[18:20:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:20:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4462357763006483930)
-[18:20:06] [Thread-8/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:20:07] [Server thread/INFO]: Preparing spawn area: 93%
-[18:20:07] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:20:07] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:20:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:20:07] [Server thread/INFO]: Done (1,815s)! For help, type "help" or "?"
-[18:20:07] [Server thread/INFO]: Maxime3399[/127.0.0.1:64018] logged in with entity id 220 at ([world]211.16859408960644, 88.0, 226.1977425826798)
-[18:20:11] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:20:59] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:21:23] [Server thread/INFO]: Maxime3399 issued server command: /reload
-[18:21:23] [Server thread/INFO]: Maxime3399: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:21:23] [Server thread/INFO]: Maxime3399: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:21:23] [Server thread/INFO]: Debug logging is disabled
-[18:21:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:21:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:21:23] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:21:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:21:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:21:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:21:23] [Server thread/INFO]: Mob Spawn Range: 4
-[18:21:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:21:23] [Server thread/INFO]: Anti X-Ray: true
-[18:21:23] [Server thread/INFO]: 	Engine Mode: 1
-[18:21:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:21:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:21:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:21:23] [Server thread/INFO]: Structure Info Saving: true
-[18:21:23] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:21:23] [Server thread/INFO]: Random Lighting Updates: false
-[18:21:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:21:23] [Server thread/INFO]: Max TNT Explosions: 100
-[18:21:23] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:21:23] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:21:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:21:23] [Server thread/INFO]: Clear tick list: false
-[18:21:23] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:21:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:21:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:21:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:21:23] [Server thread/INFO]: Max Entity Collisions: 8
-[18:21:23] [Server thread/INFO]: View Distance: 10
-[18:21:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:21:23] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:21:23] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:21:23] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:21:23] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:21:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:21:23] [Server thread/INFO]: Maxime3399: [0;32;1mReload complete.[m
-[18:21:25] [Server thread/INFO]: Maxime3399 issued server command: /pet
-[18:21:27] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:21:35] [Server thread/ERROR]: Could not pass event InventoryClickEvent to MaxCosmetics v1.0.0-a1.0
-org.bukkit.event.EventException
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1630) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_162]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_162]
-	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
-Caused by: java.lang.NullPointerException
-	at fr.Maxime3399.MaxCosmetics.events.CosPetsMenuEvents.onClick(CosPetsMenuEvents.java:61) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_162]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_162]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_162]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_162]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-db6de12-18fbb24]
-	... 15 more
-[18:21:47] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:21:47] [Server thread/INFO]: Maxime3399 left the game.
-[18:22:24] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:22:24] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:22:24] [Server thread/INFO]: Debug logging is disabled
-[18:22:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:22:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:22:24] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:22:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:22:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:22:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:22:24] [Server thread/INFO]: Mob Spawn Range: 4
-[18:22:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:22:24] [Server thread/INFO]: Anti X-Ray: true
-[18:22:24] [Server thread/INFO]: 	Engine Mode: 1
-[18:22:24] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:22:24] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:22:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:22:24] [Server thread/INFO]: Structure Info Saving: true
-[18:22:24] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:22:24] [Server thread/INFO]: Random Lighting Updates: false
-[18:22:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:22:24] [Server thread/INFO]: Max TNT Explosions: 100
-[18:22:24] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:22:24] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:22:24] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:22:24] [Server thread/INFO]: Clear tick list: false
-[18:22:24] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:22:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:22:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:22:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:22:24] [Server thread/INFO]: Max Entity Collisions: 8
-[18:22:24] [Server thread/INFO]: View Distance: 10
-[18:22:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:22:24] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:22:24] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:22:24] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:22:24] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:22:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:22:24] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:22:26] [Thread-9/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:22:26] [Server thread/INFO]: Maxime3399[/127.0.0.1:64026] logged in with entity id 309 at ([world]201.04317506205652, 89.0, 228.59960499741794)
-[18:22:29] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:22:35] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:22:40] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:22:48] [Server thread/INFO]: Maxime3399 issued server command: /reload
-[18:22:48] [Server thread/INFO]: Maxime3399: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:22:48] [Server thread/INFO]: Maxime3399: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:22:48] [Server thread/INFO]: Debug logging is disabled
-[18:22:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:22:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:22:48] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:22:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:22:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:22:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:22:48] [Server thread/INFO]: Mob Spawn Range: 4
-[18:22:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:22:48] [Server thread/INFO]: Anti X-Ray: true
-[18:22:48] [Server thread/INFO]: 	Engine Mode: 1
-[18:22:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:22:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:22:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:22:48] [Server thread/INFO]: Structure Info Saving: true
-[18:22:48] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:22:48] [Server thread/INFO]: Random Lighting Updates: false
-[18:22:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:22:48] [Server thread/INFO]: Max TNT Explosions: 100
-[18:22:48] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:22:48] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:22:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:22:48] [Server thread/INFO]: Clear tick list: false
-[18:22:48] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:22:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:22:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:22:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:22:48] [Server thread/INFO]: Max Entity Collisions: 8
-[18:22:48] [Server thread/INFO]: View Distance: 10
-[18:22:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:22:48] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:22:48] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:22:48] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:22:48] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:22:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:22:48] [Server thread/INFO]: Maxime3399: [0;32;1mReload complete.[m
-[18:26:17] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:26:17] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:26:17] [Server thread/INFO]: Debug logging is disabled
-[18:26:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:26:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:26:17] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:26:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:26:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:26:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:26:17] [Server thread/INFO]: Mob Spawn Range: 4
-[18:26:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:26:17] [Server thread/INFO]: Anti X-Ray: true
-[18:26:17] [Server thread/INFO]: 	Engine Mode: 1
-[18:26:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:26:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:26:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:26:17] [Server thread/INFO]: Structure Info Saving: true
-[18:26:17] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:26:17] [Server thread/INFO]: Random Lighting Updates: false
-[18:26:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:26:17] [Server thread/INFO]: Max TNT Explosions: 100
-[18:26:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:26:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:26:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:26:17] [Server thread/INFO]: Clear tick list: false
-[18:26:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:26:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:26:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:26:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:26:17] [Server thread/INFO]: Max Entity Collisions: 8
-[18:26:17] [Server thread/INFO]: View Distance: 10
-[18:26:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:26:17] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:26:17] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:26:17] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:26:17] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:26:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:26:17] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:26:21] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:26:26] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:26:34] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:27:04] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:27:16] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:27:37] [Server thread/INFO]: Maxime3399 issued server command: /test
-[18:27:41] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:28:32] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:28:43] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:28:43] [Server thread/INFO]: Maxime3399 left the game.
-[18:28:45] [Thread-10/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:28:46] [Server thread/INFO]: Maxime3399[/127.0.0.1:64045] logged in with entity id 701 at ([world]210.51190121731042, 88.0, 218.99178635703726)
-[18:28:48] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:28:52] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:28:52] [Server thread/INFO]: Maxime3399 left the game.
-[18:34:46] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:34:46] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:34:46] [Server thread/INFO]: Debug logging is disabled
-[18:34:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:34:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:34:46] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:34:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:34:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:34:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:34:46] [Server thread/INFO]: Mob Spawn Range: 4
-[18:34:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:34:46] [Server thread/INFO]: Anti X-Ray: true
-[18:34:46] [Server thread/INFO]: 	Engine Mode: 1
-[18:34:46] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:34:46] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:34:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:34:46] [Server thread/INFO]: Structure Info Saving: true
-[18:34:46] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:34:46] [Server thread/INFO]: Random Lighting Updates: false
-[18:34:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:34:46] [Server thread/INFO]: Max TNT Explosions: 100
-[18:34:46] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:34:46] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:34:46] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:34:46] [Server thread/INFO]: Clear tick list: false
-[18:34:46] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:34:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:34:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:34:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:34:46] [Server thread/INFO]: Max Entity Collisions: 8
-[18:34:46] [Server thread/INFO]: View Distance: 10
-[18:34:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:34:46] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:34:46] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:34:46] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:34:46] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:34:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:34:46] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:34:50] [Thread-11/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:34:50] [Server thread/INFO]: Maxime3399[/127.0.0.1:64112] logged in with entity id 745 at ([world]208.30293344000162, 88.0, 220.51536658756217)
-[18:34:56] [Server thread/INFO]: Maxime3399 issued server command: /weather clear
-[18:34:56] [Server thread/INFO]: [Maxime3399: Changing to clear weather]
-[18:35:21] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:35:21] [Server thread/INFO]: Maxime3399 left the game.
-[18:35:23] [Thread-12/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:35:23] [Server thread/INFO]: Maxime3399[/127.0.0.1:64118] logged in with entity id 796 at ([world]197.6593084534486, 88.0, 226.00023854697002)
-[18:35:38] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:35:45] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:35:45] [Server thread/INFO]: Maxime3399 left the game.
-[18:35:47] [Thread-13/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:35:47] [Server thread/INFO]: Maxime3399[/127.0.0.1:64123] logged in with entity id 819 at ([world]198.45073488432814, 88.0, 228.46652219198157)
-[18:35:50] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:35:57] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:35:57] [Server thread/INFO]: Maxime3399 left the game.
-[18:39:36] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[18:39:36] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[18:39:36] [Server thread/INFO]: Debug logging is disabled
-[18:39:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:39:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:39:36] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:39:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:39:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:39:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:39:36] [Server thread/INFO]: Mob Spawn Range: 4
-[18:39:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:39:36] [Server thread/INFO]: Anti X-Ray: true
-[18:39:36] [Server thread/INFO]: 	Engine Mode: 1
-[18:39:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:39:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:39:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:39:36] [Server thread/INFO]: Structure Info Saving: true
-[18:39:36] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:39:36] [Server thread/INFO]: Random Lighting Updates: false
-[18:39:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:39:36] [Server thread/INFO]: Max TNT Explosions: 100
-[18:39:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:39:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:39:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:39:36] [Server thread/INFO]: Clear tick list: false
-[18:39:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:39:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:39:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:39:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:39:36] [Server thread/INFO]: Max Entity Collisions: 8
-[18:39:36] [Server thread/INFO]: View Distance: 10
-[18:39:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:39:36] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[18:39:36] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
-[18:39:36] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
-[18:39:36] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
-[18:39:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:39:36] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[18:39:38] [Thread-14/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:39:38] [Server thread/INFO]: Maxime3399[/127.0.0.1:64142] logged in with entity id 842 at ([world]198.48063072781008, 88.0, 228.4421298036801)
-[18:39:40] [Server thread/INFO]: Maxime3399 issued server command: /cos
-[18:39:58] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:39:58] [Server thread/INFO]: Maxime3399 left the game.
-[18:47:13] [Thread-15/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
-[18:47:13] [Server thread/INFO]: Maxime3399[/127.0.0.1:64199] logged in with entity id 872 at ([world]197.13003497770913, 88.0, 228.8093954975788)
-[18:47:27] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
-[18:47:27] [Server thread/INFO]: Maxime3399 left the game.
-[19:07:56] [Server thread/INFO]: Stopping the server
-[19:07:56] [Server thread/INFO]: Stopping server
-[19:07:56] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
-[19:07:56] [Server thread/INFO]: Saving players
-[19:07:56] [Server thread/INFO]: Saving worlds
-[19:07:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:34:13] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[12:34:13] [Server thread/INFO]: Loading properties
+[12:34:13] [Server thread/INFO]: Default game type: CREATIVE
+[12:34:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:34:13] [Server thread/INFO]: Debug logging is disabled
+[12:34:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:34:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:34:13] [Server thread/INFO]: Generating keypair
+[12:34:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:34:14] [Server thread/INFO]: Using default channel type
+[12:34:14] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:34:14] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
+[12:34:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:34:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:34:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:34:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:34:14] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:34:14] [Server thread/INFO]: Preparing level "world"
+[12:34:14] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:34:14] [Server thread/INFO]: Max Entity Collisions: 8
+[12:34:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:34:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:34:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:34:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:34:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:34:14] [Server thread/INFO]: Clear tick list: false
+[12:34:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:34:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:34:14] [Server thread/INFO]: View Distance: 10
+[12:34:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:34:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:34:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:34:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:34:14] [Server thread/INFO]: Anti X-Ray: true
+[12:34:14] [Server thread/INFO]: 	Engine Mode: 1
+[12:34:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:34:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:34:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:34:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:34:14] [Server thread/INFO]: Mob Spawn Range: 4
+[12:34:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:34:14] [Server thread/INFO]: Structure Info Saving: true
+[12:34:14] [Server thread/INFO]: Random Lighting Updates: false
+[12:34:14] [Server thread/INFO]: Max TNT Explosions: 100
+[12:34:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:34:14] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4462357763006483930)
+[12:34:15] [Server thread/INFO]: Preparing spawn area: 98%
+[12:34:15] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
+[12:34:15] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
+[12:34:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:34:15] [Server thread/INFO]: Done (1,440s)! For help, type "help" or "?"
+[12:34:17] [Thread-8/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:34:17] [Server thread/INFO]: Maxime3399[/127.0.0.1:58349] logged in with entity id 204 at ([world]176.824915335754, 77.0, 229.55004843199907)
+[12:34:30] [Server thread/INFO]: Maxime3399 issued server command: /time set day
+[12:34:30] [Server thread/INFO]: [Maxime3399: Set the time to 1000]
+[12:34:34] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:34:46] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:34:46] [Server thread/INFO]: Maxime3399 left the game.
+[12:35:09] [Thread-9/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:35:09] [Server thread/INFO]: Maxime3399[/127.0.0.1:58426] logged in with entity id 222 at ([world]174.67141369229947, 77.0, 226.38858278981004)
+[12:35:42] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:35:53] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:35:58] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:36:11] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:36:35] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:36:40] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:36:40] [Server thread/INFO]: Maxime3399 left the game.
+[12:38:13] [Thread-10/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:38:13] [Server thread/INFO]: Maxime3399[/127.0.0.1:58432] logged in with entity id 1031 at ([world]196.41741018718255, 71.79055921411722, 157.6297216231017)
+[12:38:15] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:38:22] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:39:45] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:50:21] [Server thread/INFO]: Maxime3399 lost connection: Internal Exception: java.io.IOException: Une connexion existante a dû être fermée par l’hôte distant
+[12:50:21] [Server thread/INFO]: Maxime3399 left the game.
+[12:55:20] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:55:20] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:55:20] [Server thread/INFO]: Debug logging is disabled
+[12:55:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:55:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:55:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:55:20] [Server thread/INFO]: Max Entity Collisions: 8
+[12:55:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:55:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:55:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:55:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:55:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:55:20] [Server thread/INFO]: Clear tick list: false
+[12:55:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:55:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:55:20] [Server thread/INFO]: View Distance: 10
+[12:55:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:55:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:55:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:55:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:55:20] [Server thread/INFO]: Anti X-Ray: true
+[12:55:20] [Server thread/INFO]: 	Engine Mode: 1
+[12:55:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:55:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:55:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:55:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:55:20] [Server thread/INFO]: Mob Spawn Range: 4
+[12:55:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:55:20] [Server thread/INFO]: Structure Info Saving: true
+[12:55:20] [Server thread/INFO]: Random Lighting Updates: false
+[12:55:20] [Server thread/INFO]: Max TNT Explosions: 100
+[12:55:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:55:20] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
+[12:55:20] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
+[12:55:20] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
+[12:55:20] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
+[12:55:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:55:20] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:55:55] [Thread-11/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:55:55] [Server thread/INFO]: Maxime3399[/127.0.0.1:58538] logged in with entity id 1508 at ([world]185.52988365918833, 79.0, 177.59740889621725)
+[12:55:58] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:56:08] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:56:19] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:56:19] [Server thread/INFO]: Maxime3399 left the game.
+[12:57:17] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:57:17] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:57:17] [Server thread/INFO]: Debug logging is disabled
+[12:57:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:57:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:57:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:57:17] [Server thread/INFO]: Max Entity Collisions: 8
+[12:57:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:57:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:57:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:57:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:57:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:57:17] [Server thread/INFO]: Clear tick list: false
+[12:57:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:57:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:57:17] [Server thread/INFO]: View Distance: 10
+[12:57:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:57:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:57:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:57:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:57:17] [Server thread/INFO]: Anti X-Ray: true
+[12:57:17] [Server thread/INFO]: 	Engine Mode: 1
+[12:57:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:57:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:57:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:57:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:57:17] [Server thread/INFO]: Mob Spawn Range: 4
+[12:57:17] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:57:17] [Server thread/INFO]: Structure Info Saving: true
+[12:57:17] [Server thread/INFO]: Random Lighting Updates: false
+[12:57:17] [Server thread/INFO]: Max TNT Explosions: 100
+[12:57:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:57:17] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
+[12:57:17] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
+[12:57:17] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
+[12:57:17] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
+[12:57:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:57:17] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:57:29] [Thread-12/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:57:29] [Server thread/INFO]: Maxime3399[/127.0.0.1:58554] logged in with entity id 1668 at ([world]184.9258721539179, 79.0, 176.77506969014885)
+[12:57:37] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:57:45] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:57:54] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:57:54] [Server thread/INFO]: Maxime3399 left the game.
+[12:58:08] [Thread-13/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:58:08] [Server thread/INFO]: Maxime3399[/127.0.0.1:58568] logged in with entity id 1748 at ([world]186.57924172232302, 79.0, 176.8726634996859)
+[12:58:09] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:58:21] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:58:27] [Server thread/INFO]: Maxime3399 issued server command: /cos
+[12:58:30] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:58:30] [Server thread/INFO]: Maxime3399 left the game.
+[12:59:12] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:59:12] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:59:12] [Server thread/INFO]: Debug logging is disabled
+[12:59:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:59:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:59:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:59:12] [Server thread/INFO]: Max Entity Collisions: 8
+[12:59:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:59:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:59:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:59:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:59:12] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:59:12] [Server thread/INFO]: Clear tick list: false
+[12:59:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:59:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:59:12] [Server thread/INFO]: View Distance: 10
+[12:59:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:59:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:59:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:59:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:59:12] [Server thread/INFO]: Anti X-Ray: true
+[12:59:12] [Server thread/INFO]: 	Engine Mode: 1
+[12:59:12] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:59:12] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:59:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:59:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:59:12] [Server thread/INFO]: Mob Spawn Range: 4
+[12:59:12] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:59:12] [Server thread/INFO]: Structure Info Saving: true
+[12:59:12] [Server thread/INFO]: Random Lighting Updates: false
+[12:59:12] [Server thread/INFO]: Max TNT Explosions: 100
+[12:59:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:59:12] [Server thread/INFO]: [MaxCosmetics] Disabling MaxCosmetics v1.0.0-a1.0
+[12:59:12] [Server thread/INFO]: [MaxCosmetics] Loading MaxCosmetics v1.0.0-a1.0
+[12:59:12] [Server thread/INFO]: [MaxCosmetics] Enabling MaxCosmetics v1.0.0-a1.0
+[12:59:12] [Server thread/INFO]: [0;33;22m[21m[[m[0;36;22mMax[0;34;1mCosmetics[0;33;22m[21m][m [0;32;1mLe plugin a correctement démarré ![m
+[12:59:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:59:12] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:59:15] [Thread-14/INFO]: UUID of player Maxime3399 is 049f3b73-c0da-3aa7-be0b-4168aa71de80
+[12:59:15] [Server thread/INFO]: Maxime3399[/127.0.0.1:58575] logged in with entity id 1817 at ([world]186.57924172232302, 79.0, 176.8726634996859)
+[12:59:23] [Server thread/INFO]: Maxime3399 lost connection: Disconnected
+[12:59:23] [Server thread/INFO]: Maxime3399 left the game.
