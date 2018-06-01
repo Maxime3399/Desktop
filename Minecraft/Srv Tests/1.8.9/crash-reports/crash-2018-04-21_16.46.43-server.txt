@@ -1,0 +1,119 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 21/04/18 16:46
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at net.minecraft.server.v1_8_R3.Path.b(Path.java:100)
+	at net.minecraft.server.v1_8_R3.Path.c(Path.java:38)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:37)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:27)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:71)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:77)
+	at net.minecraft.server.v1_8_R3.PathfinderGoalRandomStroll.c(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.EntitySilverfish$PathfinderGoalSilverfishHideInBlock.c(EntitySilverfish.java:140)
+	at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:473)
+	at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338)
+	at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20)
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193)
+	at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24)
+	at net.minecraft.server.v1_8_R3.EntitySilverfish.t_(EntitySilverfish.java:73)
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607)
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1582)
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425)
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.server.v1_8_R3.Path.b(Path.java:100)
+	at net.minecraft.server.v1_8_R3.Path.c(Path.java:38)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:37)
+	at net.minecraft.server.v1_8_R3.Pathfinder.a(SourceFile:27)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:71)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.NavigationAbstract.a(SourceFile:77)
+	at net.minecraft.server.v1_8_R3.PathfinderGoalRandomStroll.c(SourceFile:56)
+	at net.minecraft.server.v1_8_R3.EntitySilverfish$PathfinderGoalSilverfishHideInBlock.c(EntitySilverfish.java:140)
+	at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:473)
+	at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338)
+	at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20)
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487)
+	at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193)
+	at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24)
+	at net.minecraft.server.v1_8_R3.EntitySilverfish.t_(EntitySilverfish.java:73)
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607)
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1582)
+
+-- Entity being ticked --
+Details:
+	Entity Type: Silverfish (net.minecraft.server.v1_8_R3.EntitySilverfish)
+	Entity ID: 207
+	Entity Name: §711§r §a§lPierre
+	Entity's Exact location: 165,95, 76,00, 221,48
+	Entity's Block location: 165,00,76,00,221,00 - World: (165,76,221), Chunk: (at 5,4,13 in 10,13; contains blocks 160,0,208 to 175,255,223), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Entity's Momentum: 0,00, -0,08, 0,00
+	Entity's Rider: ~~ERROR~~ NullPointerException: null
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425)
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [EntityPlayer['Maxime3399'/206, l='world', x=162,18, y=75,00, z=222,84](Maxime3399 at 162.18227903287448,75.0,222.8409401562496)]
+	Chunk stats: ServerChunkCache: 457 Drop: 0
+	Level seed: 4462357763006483930
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: 209,00,88,00,222,00 - World: (209,88,222), Chunk: (at 1,5,14 in 13,13; contains blocks 208,0,208 to 223,255,223), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 1689905 game time, 829361 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 87743 (now: false), thunder time: 75588 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_162, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 901318016 bytes (859 MB) / 1029177344 bytes (981 MB) up to 1029177344 bytes (981 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	IntCache: cache: 4, tcache: 0, allocated: 12, tallocated: 94
+	CraftBukkit Information: 
+   Running: CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) false
+   Plugins: { MaxCosmetics v1.0.0-a1.0 fr.Maxime3399.MaxCosmetics.MainClass [Maxime3399],}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { WAITING NonBlockingInputStreamThread: [java.lang.Object.wait(Native Method), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278), java.lang.Thread.run(Unknown Source)], TIMED_WAITING File IO Thread: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_8_R3.FileIOThread.c(FileIOThread.java:52), net.minecraft.server.v1_8_R3.FileIOThread.run(FileIOThread.java:28), java.lang.Thread.run(Unknown Source)], RUNNABLE DestroyJavaVM: [], TIMED_WAITING Craft Scheduler Thread - 0: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source), java.util.concurrent.SynchronousQueue.poll(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Server thread: [java.lang.Thread.dumpThreads(Native Method), java.lang.Thread.getAllStackTraces(Unknown Source), org.bukkit.craftbukkit.v1_8_R3.CraftCrashReport.call(CraftCrashReport.java:29), net.minecraft.server.v1_8_R3.CrashReportSystemDetails.a(SourceFile:78), net.minecraft.server.v1_8_R3.CrashReport.h(CrashReport.java:127), net.minecraft.server.v1_8_R3.CrashReport.<init>(CrashReport.java:34), net.minecraft.server.v1_8_R3.CrashReport.a(CrashReport.java:312), net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1428), net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597), net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786), net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374), net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654), net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Spigot Watchdog Thread: [java.lang.Thread.sleep(Native Method), org.spigotmc.WatchdogThread.run(WatchdogThread.java:92)], WAITING Thread-5: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), org.bukkit.craftbukkit.v1_8_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:25), java.lang.Thread.run(Unknown Source)], RUNNABLE Craft Scheduler Thread - 2: [org.apache.commons.lang.exception.NestableDelegate.printStackTrace(NestableDelegate.java:313), org.apache.commons.lang.exception.NestableDelegate.printStackTrace(NestableDelegate.java:293), org.apache.commons.lang.exception.NestableRuntimeException.printStackTrace(NestableRuntimeException.java:185), java.lang.ThreadGroup.uncaughtException(Unknown Source), java.lang.ThreadGroup.uncaughtException(Unknown Source), java.lang.Thread.dispatchUncaughtException(Unknown Source)], RUNNABLE Server console handler: [org.fusesource.jansi.internal.Kernel32.ReadConsoleInputW(Native Method), org.fusesource.jansi.internal.Kernel32.readConsoleInputHelper(Kernel32.java:761), org.fusesource.jansi.internal.Kernel32.readConsoleKeyInput(Kernel32.java:794), org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97), org.bukkit.craftbukkit.libs.jline.WindowsTerminal.readConsoleInput(WindowsTerminal.java:215), org.bukkit.craftbukkit.libs.jline.WindowsTerminal.access$000(WindowsTerminal.java:55), org.bukkit.craftbukkit.libs.jline.WindowsTerminal$1.read(WindowsTerminal.java:157), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349), net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:79)], WAITING Finalizer: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(Unknown Source), java.lang.ref.ReferenceQueue.remove(Unknown Source), java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)], RUNNABLE Netty Server IO #0: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310), io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116), java.lang.Thread.run(Unknown Source)], RUNNABLE Attach Listener: [], WAITING Reference Handler: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Unknown Source), java.lang.ref.Reference.tryHandlePending(Unknown Source), java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)], RUNNABLE Signal Dispatcher: [], RUNNABLE Spigot Metrics Thread: [java.net.SocketInputStream.socketRead0(Native Method), java.net.SocketInputStream.socketRead(Unknown Source), java.net.SocketInputStream.read(Unknown Source), java.net.SocketInputStream.read(Unknown Source), java.io.BufferedInputStream.fill(Unknown Source), java.io.BufferedInputStream.read1(Unknown Source), java.io.BufferedInputStream.read(Unknown Source), sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source), sun.net.www.http.HttpClient.parseHTTP(Unknown Source), sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source), sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source), org.spigotmc.Metrics.postPlugin(Metrics.java:435), org.spigotmc.Metrics.access$4(Metrics.java:345), org.spigotmc.Metrics$1.run(Metrics.java:240), java.util.TimerThread.mainLoop(Unknown Source), java.util.TimerThread.run(Unknown Source)], TIMED_WAITING Craft Scheduler Thread - 3: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source), java.util.concurrent.SynchronousQueue.poll(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Chunk I/O Executor Thread-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Server Infinisleeper: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_8_R3.DedicatedServer$1.run(DedicatedServer.java:54)], TIMED_WAITING Craft Scheduler Thread - 1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source), java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source), java.util.concurrent.SynchronousQueue.poll(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #1: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310), io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Snooper Timer: [java.lang.Object.wait(Native Method), java.util.TimerThread.mainLoop(Unknown Source), java.util.TimerThread.run(Unknown Source)],}
+   Recent tasks from 500-530{MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@530,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@530,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@530,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@531,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@531,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@531,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@532,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@532,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@532,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@533,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@533,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@533,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@534,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@534,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@534,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@535,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@535,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@535,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@536,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@536,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@536,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@537,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@537,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@537,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@538,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@538,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@538,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@539,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@539,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@539,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@540,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@540,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@540,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@541,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@541,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@541,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@542,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@542,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@542,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@543,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@543,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@543,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@544,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@544,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@544,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@545,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@545,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@545,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@546,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@546,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@546,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@547,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@547,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@547,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@548,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@548,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@548,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@549,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@549,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@549,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@550,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@550,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@550,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@551,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@551,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@551,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@552,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@552,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@552,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@553,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@553,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@553,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@554,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@554,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@554,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@555,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@555,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@555,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@556,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@556,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@556,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@557,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@557,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@557,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@558,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@558,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@558,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@559,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@559,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@559,MaxCosmetics:fr.Maxime3399.MaxCosmetics.actions.PetBallAction$1$1@560,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$1@560,MaxCosmetics:fr.Maxime3399.MaxCosmetics.custom.Pet$2@560,}
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 1; [EntityPlayer['Maxime3399'/206, l='world', x=162,18, y=75,00, z=222,84](Maxime3399 at 162.18227903287448,75.0,222.8409401562496)]
+	Is Modded: Definitely; Server brand changed to 'Spigot'
+	Type: Dedicated Server (map_server.txt)

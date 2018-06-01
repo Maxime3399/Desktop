@@ -1,8 +1,0 @@
-#========== DATABASE ==========
-
-Adress: "localhost"
-User: "root"
-Password: ""
-Database: "test"
-Port: 3306
-UseSSL: false
