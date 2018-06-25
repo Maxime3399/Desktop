@@ -407,3 +407,44 @@
 16:10:44 [INFOS] Disabling plugins
 16:10:44 [INFOS] Closing IO threads
 16:10:46 [INFOS] Thank you and goodbye
+12:11:21 [INFOS] Using standard Java JCE cipher.
+12:11:21 [INFOS] Using standard Java compressor.
+12:11:21 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:aef3861:1294
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:11:21 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:21 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:aef3861:1294 by SpigotMC
+12:11:22 [INFOS] Listening on /0.0.0.0:25565
+12:12:03 [INFOS] [/127.0.0.1:63560] <-> InitialHandler has connected
+12:12:04 [INFOS] [/127.0.0.1:63565] <-> InitialHandler has connected
+12:12:06 [INFOS] [Maxime3399] <-> ServerConnector [Srv1] has connected
+12:12:07 [INFOS] Netty is not using direct IO buffers.
+12:13:01 [INFOS] [/127.0.0.1:63675] <-> InitialHandler has connected
+12:13:01 [INFOS] [/127.0.0.1:63677] <-> InitialHandler has connected
+12:13:03 [INFOS] [Cubenderz] <-> ServerConnector [Srv1] has connected
+12:15:24 [INFOS] [Maxime3399] -> UpstreamBridge has disconnected
+12:15:24 [INFOS] [Maxime3399] <-> DownstreamBridge <-> [Srv1] has disconnected
+12:15:24 [INFOS] [/127.0.0.1:63730] <-> InitialHandler has connected
+12:15:27 [INFOS] [Cubenderz] -> UpstreamBridge has disconnected
+12:15:27 [INFOS] [Cubenderz] <-> DownstreamBridge <-> [Srv1] has disconnected
+12:15:27 [INFOS] [/127.0.0.1:63735] <-> InitialHandler has connected
+12:21:06 [INFOS] Closing listener [id: 0x0e516a96, L:/0:0:0:0:0:0:0:0:25565]
+12:21:06 [INFOS] Closing pending connections
+12:21:06 [INFOS] Disconnecting 0 connections
+12:21:07 [INFOS] Saving reconnect locations
+12:21:07 [INFOS] Disabling plugins
+12:21:07 [INFOS] Closing IO threads
