@@ -1,0 +1,184 @@
+# ======== Super Painter ========
+#
+# Plugin verion: 1.0.0-b1.0
+# Spigot version : 1_12_R1
+# Plugin by Maxime3399
+#
+# Custom plugin for chris125
+#
+# ===============================
+
+# [= General =]
+#
+# Modify general settings.
+# -> You can use the symbol "&" for colors.
+#
+General:
+    Default_color: "WHITE"
+    Remove_default_rainbow: true
+    Brush_item:
+        Item: "BLAZE_ROD"
+        Item_data: 0
+        Item_display_name: "&ePaintbrush"
+
+# [= Disappearance =]
+#
+# Modify the disappearance settings.
+# ~ Time in seconds.
+#
+Disappearance:
+    Enable: true
+    Time: 30
+
+
+# [= Messages =]
+#
+# Modify the different messages of the plugin.
+# -> You can use the symbol "&" for colors.
+# -> Use "%color%" for the selected color.
+#
+Messages:
+    Prefix: "&3&l[&r&aSuper&2Painter&3&l]"
+    Help: "&eUse : /sp help"
+    Help_main: "&eCommands :"
+    Help_command_paint: "&d&l-&r &a/paint &1: &aOpen the menu"
+    Help_command_reload: "&d&l-&r &a/sp reload &1: &aReload the plugin"
+    Help_command_reset: "&d&l-&r &a/sp reset &1: &aReset all walls"
+    Wall_reset: "&aThe walls have been reset !"
+    No_permission: "&cYou don't have the permission !"
+    Selected_color: "&a&lSelected color : %color%"
+    Brush_removed: "&eYou no longer has a brush."
+    No_brush: "&cYou do not have a brush !"
+    Reload: "&aThe plugin has been reloaded !"
+    No_command_console: "&cThis command can not be used by the console !"
+
+
+# [= Permissions =]
+#
+# Modify the different permissions of the plugin.
+# -> Put "none" to disable.
+#
+Permissions :
+    Command_paint: "superpainter.command.paint"
+    Command_reload: "superpainter.command.reload"
+    Command_reset: "superpainter.command.reset"
+    Color_white: "superpainter.color.white"
+    Color_orange: "superpainter.color.orange"
+    Color_magenta: "superpainter.color.magenta"
+    Color_aqua : "superpainter.color.aqua"
+    Color_yellow: "superpainter.color.yellow"
+    Color_green: "superpainter.color.green"
+    Color_pink: "superpainter.color.pink"
+    Color_dark_grey: "superpainter.color.darkgrey"
+    Color_grey: "superpainter.color.grey"
+    Color_blue: "superpainter.color.blue"
+    Color_purple: "superpainter.color.purple"
+    Color_dark_blue: "superpainter.color.darkblue"
+    Color_brown: "superpainter.color.brown"
+    Color_dark_green: "superpainter.color.darkgreen"
+    Color_red: "superpainter.color.red"
+    Color_black: "superpainter.color.black"
+    Color_rainbow: "superpainter.color.rainbow"
+
+
+# [= Menu =]
+#
+# Modify the menu and the different items.
+# -> You can use the symbol "&" for colors.
+# -> Use the type "RAINBOW" for the item to change between all the wool colors.
+# -> In the lore, use "#" for a new line
+# ! Maximum 16 characters for the name of the menu.
+#
+Menu:
+    Menu_display_name: "&8Colors"
+    No_permission_lore: "&cYou don't have#&cthe permission"
+    Items:
+        White:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 0
+            Item_display_name: "&f&lWhite"
+        Orange:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 1
+            Item_display_name: "&6&lOrange"
+        Magenta:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 2
+            Item_display_name: "&d&lMagenta"
+        Aqua:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 3
+            Item_display_name: "&b&lAqua"
+        Yellow:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 4
+            Item_display_name: "&e&lYellow"
+        Green:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 5
+            Item_display_name: "&a&lGreen"
+        Pink:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 6
+            Item_display_name: "&d&lPink"
+        Dark_grey:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 7
+            Item_display_name: "&8&lDark Grey"
+        Grey:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 8
+            Item_display_name: "&7&lGrey"
+        Blue:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 9
+            Item_display_name: "&3&lBlue"
+        Purple:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 10
+            Item_display_name: "&5&lPurple"
+        Dark_blue:
+            Enable: true
+            Item: "WOOL"
+            Item_data : 11
+            Item_display_name: "&1&lDark Blue"
+        Brown:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 12
+            Item_display_name: "&6&lBrown"
+        Dark_green:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 13
+            Item_display_name: "&2&lDark Green"
+        Red:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 14
+            Item_display_name: "&c&lRed"
+        Black:
+            Enable: true
+            Item: "WOOL"
+            Item_data: 15
+            Item_display_name: "&0&lBlack"
+        Rainbow:
+            Enable: true
+            Item: "RAINBOW"
+            Item_data: 0
+            Item_display_name: "&6&lR&e&la&2&li&a&ln&b&lb&3&lo&9&lw"
+        Remove:
+            Item: "BARRIER"
+            Item_data: 0
+            Item_display_name: "&c&oRemove"
