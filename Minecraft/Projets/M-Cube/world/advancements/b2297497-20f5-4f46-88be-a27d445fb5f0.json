@@ -444,8 +444,8 @@
       "minecraft:desert": "2018-07-23 20:15:59 +0200",
       "minecraft:jungle": "2018-07-23 19:56:21 +0200",
       "minecraft:beach": "2018-11-12 15:18:09 +0100",
-      "minecraft:lukewarm_ocean": "2018-11-12 15:18:10 +0100",
-      "minecraft:river": "2018-07-28 13:23:18 +0200"
+      "minecraft:river": "2018-07-28 13:23:18 +0200",
+      "minecraft:lukewarm_ocean": "2018-11-12 15:18:10 +0100"
     },
     "done": false
   },
@@ -503,15 +503,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_banner": {
-    "criteria": {
-      "has_magenta_wool": "2018-12-28 22:09:38 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2018-12-28 22:09:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2018-12-28 22:09:38 +0100"
     },
     "done": true
   },
@@ -530,6 +530,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2018-11-12 15:18:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-02-09 16:03:17 +0100"
     },
     "done": true
   },
@@ -617,13 +623,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-28 22:09:37 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-28 22:09:37 +0100"
     },
@@ -631,6 +637,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2019-02-09 16:03:14 +0100",
+      "minecraft:zombie": "2019-02-09 16:39:27 +0100",
       "minecraft:creeper": "2018-09-08 19:24:43 +0200"
     },
     "done": false
@@ -653,13 +661,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-28 22:09:37 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+  "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-12-28 22:09:37 +0100"
     },
